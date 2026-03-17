@@ -4,6 +4,8 @@ import json
 EXCLUDED_ROOT_FILES = {
     "autocommit.ps1",
     "tree.py",
+    "autopush.sh",
+    "files.json",
     "fmtree.py",
     "index.html",
     "favicon.png",

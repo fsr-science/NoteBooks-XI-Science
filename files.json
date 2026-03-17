@@ -866,16 +866,6 @@
     },
     {
       "type": "file",
-      "name": "autopush.sh",
-      "path": "autopush.sh"
-    },
-    {
-      "type": "file",
-      "name": "files.json",
-      "path": "files.json"
-    },
-    {
-      "type": "file",
       "name": "README.md",
       "path": "README.md"
     }
