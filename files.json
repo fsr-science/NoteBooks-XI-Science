@@ -9,7 +9,412 @@
         {
           "type": "folder",
           "name": "NCERT-EXAMPLER",
-          "children": []
+          "children": [
+            {
+              "type": "folder",
+              "name": "BIOLOGY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "keep401.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep401.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep402.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep402.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep403.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep403.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep404.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep404.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep405.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep405.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep406.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep406.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep407.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep407.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep408.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep408.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep409.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep409.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep410.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep410.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep411.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep411.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep412.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep412.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep413.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep413.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep414.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep414.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep415.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep415.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep416.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep416.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep417.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep417.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep418.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep418.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep419.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep419.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep420.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep420.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep421.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep421.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep422.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep422.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep423.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep423.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep424.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep424.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep425.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep425.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "CHEMISTRY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "keep501.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep501.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep502.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep502.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep503.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep503.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep504.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep504.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep505.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep505.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep506.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep506.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep507.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep507.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep508.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep508.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep509.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep509.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep510.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep510.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep511.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep511.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep512.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep512.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep513.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep513.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep514.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep514.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep515.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep515.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep516.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep516.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "MATHEMATICS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "keep201.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep201.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep202.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep202.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep203.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep203.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep204.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep204.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep205.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep205.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep206.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep206.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep207.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep207.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep208.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep208.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep209.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep209.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep210.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep210.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep211.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep211.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep212.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep212.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep213.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep213.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep214.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep214.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep215.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep215.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep216.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep216.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep217.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep217.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep218.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep218.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "PHYSICS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "keep301.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep301.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep302.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep302.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep303.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep303.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep304.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep304.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep305.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep305.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep306.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep306.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep307.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep307.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep308.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep308.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep309.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep309.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep310.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep310.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep311.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep311.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep312.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep312.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep313.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep313.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep314.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep314.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep315.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep315.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep316.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep316.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "keep317.pdf",
+                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep317.pdf"
+                }
+              ]
+            }
+          ]
         },
         {
           "type": "folder",
@@ -463,6 +868,11 @@
       "type": "file",
       "name": "autopush.sh",
       "path": "autopush.sh"
+    },
+    {
+      "type": "file",
+      "name": "files.json",
+      "path": "files.json"
     },
     {
       "type": "file",
