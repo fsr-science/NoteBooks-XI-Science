@@ -4,861 +4,835 @@
   "children": [
     {
       "type": "folder",
-      "name": "CBSE-SOURCES",
+      "name": "AI-NOTES",
+      "children": []
+    },
+    {
+      "type": "folder",
+      "name": "NCERT-EXAMPLER",
       "children": [
         {
           "type": "folder",
-          "name": "NCERT-EXAMPLER",
+          "name": "BIOLOGY",
           "children": [
             {
-              "type": "folder",
-              "name": "BIOLOGY",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "keep401.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep401.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep402.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep402.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep403.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep403.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep404.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep404.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep405.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep405.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep406.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep406.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep407.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep407.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep408.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep408.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep409.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep409.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep410.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep410.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep411.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep411.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep412.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep412.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep413.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep413.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep414.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep414.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep415.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep415.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep416.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep416.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep417.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep417.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep418.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep418.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep419.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep419.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep420.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep420.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep421.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep421.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep422.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep422.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep423.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep423.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep424.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep424.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep425.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/BIOLOGY/keep425.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR-ANSWERS_TO_MCQ.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR-ANSWERS_TO_MCQ.pdf"
             },
             {
-              "type": "folder",
-              "name": "CHEMISTRY",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "keep501.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep501.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep502.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep502.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep503.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep503.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep504.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep504.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep505.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep505.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep506.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep506.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep507.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep507.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep508.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep508.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep509.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep509.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep510.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep510.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep511.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep511.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep512.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep512.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep513.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep513.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep514.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep514.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep515.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep515.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep516.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/CHEMISTRY/keep516.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR-MODEL_ANSWERS_DESCRIPTIVE.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR-MODEL_ANSWERS_DESCRIPTIVE.pdf"
             },
             {
-              "type": "folder",
-              "name": "MATHEMATICS",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "keep201.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep201.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep202.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep202.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep203.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep203.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep204.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep204.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep205.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep205.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep206.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep206.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep207.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep207.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep208.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep208.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep209.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep209.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep210.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep210.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep211.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep211.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep212.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep212.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep213.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep213.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep214.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep214.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep215.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep215.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep216.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep216.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep217.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep217.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep218.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/MATHEMATICS/keep218.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR-MODEL_QUESTION_PAPER.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR-MODEL_QUESTION_PAPER.pdf"
             },
             {
-              "type": "folder",
-              "name": "PHYSICS",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "keep301.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep301.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep302.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep302.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep303.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep303.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep304.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep304.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep305.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep305.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep306.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep306.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep307.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep307.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep308.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep308.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep309.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep309.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep310.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep310.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep311.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep311.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep312.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep312.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep313.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep313.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep314.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep314.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep315.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep315.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep316.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep316.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keep317.pdf",
-                  "path": "CBSE-SOURCES/NCERT-EXAMPLER/PHYSICS/keep317.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR01-THE_LIVING_WORLD.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR01-THE_LIVING_WORLD.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR02-BIOLOGICAL_CLASSIFICATION.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR02-BIOLOGICAL_CLASSIFICATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR03-PLANT_KINGDOM.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR03-PLANT_KINGDOM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR04-ANIMAL_KINGDOM.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR04-ANIMAL_KINGDOM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR05-MORPHOLOGY_OF_FLOWERING_PLANTS.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR05-MORPHOLOGY_OF_FLOWERING_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR06-ANATOMY_OF_FLOWERING_PLANTS.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR06-ANATOMY_OF_FLOWERING_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR07-STRUCTURAL_ORGANISATION_IN_ANIMALS.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR07-STRUCTURAL_ORGANISATION_IN_ANIMALS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR08-CELL_THE_UNIT_OF_LIFE.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR08-CELL_THE_UNIT_OF_LIFE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR09-BIOMOLECULES.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR09-BIOMOLECULES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR10-CELL_CYCLE_AND_CELL_DIVISION.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR10-CELL_CYCLE_AND_CELL_DIVISION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR11-TRANSPORT_IN_PLANTS.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR11-TRANSPORT_IN_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR12-MINERAL_NUTRITION.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR12-MINERAL_NUTRITION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR13-PHOTOSYNTHESIS_IN_HIGHER_PLANTS.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR13-PHOTOSYNTHESIS_IN_HIGHER_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR14-RESPIRATION_IN_PLANTS.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR14-RESPIRATION_IN_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR15-PLANT_GROWTH_AND_DEVELOPMENT.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR15-PLANT_GROWTH_AND_DEVELOPMENT.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR16-DIGESTION_AND_ABSORPTION.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR16-DIGESTION_AND_ABSORPTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR17-BREATHING_AND_EXCHANGE_OF_GASES.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR17-BREATHING_AND_EXCHANGE_OF_GASES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR18-BODY_FLUIDS_AND_CIRCULATION.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR18-BODY_FLUIDS_AND_CIRCULATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR19-EXCRETORY_PRODUCTS_AND_THEIR_ELIMINATION.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR19-EXCRETORY_PRODUCTS_AND_THEIR_ELIMINATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR20-LOCOMOTION_AND_MOVEMENT.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR20-LOCOMOTION_AND_MOVEMENT.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR21-NEURAL_CONTROL_AND_COORDINATION.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR21-NEURAL_CONTROL_AND_COORDINATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-EXEMPLAR22-CHEMICAL_COORDINATION_AND_INTEGRATION.pdf",
+              "path": "NCERT-EXAMPLER/BIOLOGY/BIOLOGY-EXEMPLAR22-CHEMICAL_COORDINATION_AND_INTEGRATION.pdf"
             }
           ]
         },
         {
           "type": "folder",
-          "name": "NCERT-PDF",
+          "name": "CHEMISTRY",
           "children": [
             {
-              "type": "folder",
-              "name": "BIOLOGY",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "kebo101.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo101.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo102.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo102.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo103.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo103.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo104.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo104.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo105.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo105.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo106.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo106.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo107.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo107.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo108.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo108.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo109.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo109.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo110.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo110.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo111.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo111.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo112.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo112.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo113.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo113.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo114.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo114.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo115.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo115.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo116.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo116.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo117.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo117.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo118.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo118.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo119.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo119.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kebo1ps.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/BIOLOGY/kebo1ps.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR-ANSWERS.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR-ANSWERS.pdf"
             },
             {
-              "type": "folder",
-              "name": "CHEMISTRY",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "kech101.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech101.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech102.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech102.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech103.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech103.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech104.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech104.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech105.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech105.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech106.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech106.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech1a1.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech1a1.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech1an.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech1an.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech1ps.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech1ps.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech201.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech201.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech202.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech202.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech203.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech203.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech2an.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech2an.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kech2ps.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/CHEMISTRY/kech2ps.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR-DESIGN_OF_QUESTION_PAPER.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR-DESIGN_OF_QUESTION_PAPER.pdf"
             },
             {
-              "type": "folder",
-              "name": "COMPUTER-SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "kecs101.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs101.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs102.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs102.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs103.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs103.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs104.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs104.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs105.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs105.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs106.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs106.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs107.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs107.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs108.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs108.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs109.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs109.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs110.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs110.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs111.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs111.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kecs1ps.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/COMPUTER-SCIENCE/kecs1ps.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf"
             },
             {
-              "type": "folder",
-              "name": "MATHEMATICS",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "kemh101.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh101.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh102.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh102.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh103.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh103.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh104.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh104.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh105.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh105.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh106.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh106.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh107.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh107.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh108.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh108.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh109.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh109.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh110.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh110.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh111.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh111.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh112.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh112.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh113.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh113.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh114.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh114.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh1a1.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh1a1.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh1a2.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh1a2.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh1an.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh1an.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh1ps.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh1ps.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "kemh1sm.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/MATHEMATICS/kemh1sm.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR02-STRUCTURE_OF_ATOM.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR02-STRUCTURE_OF_ATOM.pdf"
             },
             {
-              "type": "folder",
-              "name": "PHYSICS",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "keph101.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph101.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph102.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph102.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph103.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph103.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph104.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph104.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph105.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph105.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph106.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph106.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph107.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph107.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph1a1.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph1a1.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph1an.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph1an.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph201.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph201.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph202.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph202.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph203.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph203.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph204.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph204.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph205.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph205.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph206.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph206.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph207.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph207.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "keph2an.pdf",
-                  "path": "CBSE-SOURCES/NCERT-PDF/PHYSICS/keph2an.pdf"
-                }
-              ]
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR03-CLASSIFICATION_OF_ELEMENTS_AND_PERIODICITY.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR03-CLASSIFICATION_OF_ELEMENTS_AND_PERIODICITY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR04-CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR04-CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR05-STATES_OF_MATTER.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR05-STATES_OF_MATTER.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR06-THERMODYNAMICS.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR06-THERMODYNAMICS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR07-EQUILIBRIUM.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR07-EQUILIBRIUM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR08-REDOX_REACTIONS.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR08-REDOX_REACTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR09-HYDROGEN.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR09-HYDROGEN.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR10-S_BLOCK_ELEMENTS.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR10-S_BLOCK_ELEMENTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR11-P_BLOCK_ELEMENTS.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR11-P_BLOCK_ELEMENTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR12-ORGANIC_CHEMISTRY_BASIC_PRINCIPLES_AND_TECHNIQUES.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR12-ORGANIC_CHEMISTRY_BASIC_PRINCIPLES_AND_TECHNIQUES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR13-HYDROCARBONS.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR13-HYDROCARBONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-EXEMPLAR14-ENVIRONMENTAL_CHEMISTRY.pdf",
+              "path": "NCERT-EXAMPLER/CHEMISTRY/CHEMISTRY-EXEMPLAR14-ENVIRONMENTAL_CHEMISTRY.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "MATHEMATICS",
+          "children": [
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR-ANSWERS.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR-ANSWERS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR-DESIGN_OF_QUESTION_PAPER.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR-DESIGN_OF_QUESTION_PAPER.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR01-SETS.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR01-SETS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR02-RELATIONS_AND_FUNCTIONS.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR02-RELATIONS_AND_FUNCTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR03-TRIGONOMETRIC_FUNCTIONS.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR03-TRIGONOMETRIC_FUNCTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR04-PRINCIPLE_OF_MATHEMATICAL_INDUCTION.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR04-PRINCIPLE_OF_MATHEMATICAL_INDUCTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR05-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR05-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR06-LINEAR_INEQUALITIES.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR06-LINEAR_INEQUALITIES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR07-PERMUTATIONS_AND_COMBINATIONS.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR07-PERMUTATIONS_AND_COMBINATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR08-BINOMIAL_THEOREM.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR08-BINOMIAL_THEOREM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR09-SEQUENCES_AND_SERIES.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR09-SEQUENCES_AND_SERIES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR10-STRAIGHT_LINES.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR10-STRAIGHT_LINES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR11-CONIC_SECTIONS.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR11-CONIC_SECTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR12-INTRODUCTION_TO_3D_GEOMETRY.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR12-INTRODUCTION_TO_3D_GEOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR13-LIMITS_AND_DERIVATIVES.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR13-LIMITS_AND_DERIVATIVES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR14-MATHEMATICAL_REASONING.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR14-MATHEMATICAL_REASONING.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR15-STATISTICS.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR15-STATISTICS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-EXEMPLAR16-PROBABILITY.pdf",
+              "path": "NCERT-EXAMPLER/MATHEMATICS/MATHEMATICS-EXEMPLAR16-PROBABILITY.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "PHYSICS",
+          "children": [
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR-ANSWERS.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR-ANSWERS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR-DESIGN_OF_QUESTION_PAPER.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR-DESIGN_OF_QUESTION_PAPER.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR01-PHYSICAL_WORLD.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR01-PHYSICAL_WORLD.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR02-UNITS_AND_MEASUREMENTS.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR02-UNITS_AND_MEASUREMENTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR03-MOTION_IN_A_STRAIGHT_LINE.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR03-MOTION_IN_A_STRAIGHT_LINE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR04-MOTION_IN_A_PLANE.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR04-MOTION_IN_A_PLANE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR05-LAWS_OF_MOTION.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR05-LAWS_OF_MOTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR06-WORK_ENERGY_AND_POWER.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR06-WORK_ENERGY_AND_POWER.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR07-SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR07-SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR08-GRAVITATION.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR08-GRAVITATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR09-MECHANICAL_PROPERTIES_OF_SOLIDS.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR09-MECHANICAL_PROPERTIES_OF_SOLIDS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR10-MECHANICAL_PROPERTIES_OF_FLUIDS.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR10-MECHANICAL_PROPERTIES_OF_FLUIDS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR11-THERMAL_PROPERTIES_OF_MATTER.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR11-THERMAL_PROPERTIES_OF_MATTER.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR12-THERMODYNAMICS.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR12-THERMODYNAMICS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR13-KINETIC_THEORY.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR13-KINETIC_THEORY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR14-OSCILLATIONS.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR14-OSCILLATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-EXEMPLAR15-WAVES.pdf",
+              "path": "NCERT-EXAMPLER/PHYSICS/PHYSICS-EXEMPLAR15-WAVES.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "NCERT-PDF",
+      "children": [
+        {
+          "type": "folder",
+          "name": "BIOLOGY",
+          "children": [
+            {
+              "type": "file",
+              "name": "BIOLOGY01-THE_LIVING_WORLD.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY01-THE_LIVING_WORLD.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY02-BIOLOGICAL_CLASSIFICATION.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY02-BIOLOGICAL_CLASSIFICATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY03-PLANT_KINGDOM.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY03-PLANT_KINGDOM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY04-ANIMAL_KINGDOM.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY04-ANIMAL_KINGDOM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY05-MORPHOLOGY_OF_FLOWERING_PLANTS.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY05-MORPHOLOGY_OF_FLOWERING_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY06-ANATOMY_OF_FLOWERING_PLANTS.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY06-ANATOMY_OF_FLOWERING_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY07-STRUCTURAL_ORGANISATION_IN_ANIMALS.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY07-STRUCTURAL_ORGANISATION_IN_ANIMALS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY08-CELL_THE_UNIT_OF_LIFE.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY08-CELL_THE_UNIT_OF_LIFE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY09-BIOMOLECULES.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY09-BIOMOLECULES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY10-CELL_CYCLE_AND_CELL_DIVISION.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY10-CELL_CYCLE_AND_CELL_DIVISION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY11-TRANSPORT_IN_PLANTS.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY11-TRANSPORT_IN_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY12-MINERAL_NUTRITION.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY12-MINERAL_NUTRITION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY13-PHOTOSYNTHESIS_IN_HIGHER_PLANTS.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY13-PHOTOSYNTHESIS_IN_HIGHER_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY14-RESPIRATION_IN_PLANTS.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY14-RESPIRATION_IN_PLANTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY15-PLANT_GROWTH_AND_DEVELOPMENT.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY15-PLANT_GROWTH_AND_DEVELOPMENT.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY16-DIGESTION_AND_ABSORPTION.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY16-DIGESTION_AND_ABSORPTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY17-BREATHING_AND_EXCHANGE_OF_GASES.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY17-BREATHING_AND_EXCHANGE_OF_GASES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY18-BODY_FLUIDS_AND_CIRCULATION.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY18-BODY_FLUIDS_AND_CIRCULATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY19-EXCRETORY_PRODUCTS_AND_THEIR_ELIMINATION.pdf",
+              "path": "NCERT-PDF/BIOLOGY/BIOLOGY19-EXCRETORY_PRODUCTS_AND_THEIR_ELIMINATION.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "CHEMISTRY",
+          "children": [
+            {
+              "type": "file",
+              "name": "CHEMISTRY-ANSWERS-UI.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY-ANSWERS-UI.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-ANSWERS-UII.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY-ANSWERS-UII.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY-APPENDIX.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY-APPENDIX.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY02-STRUCTURE_OF_ATOM.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY02-STRUCTURE_OF_ATOM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY03-CLASSIFICATION_OF_ELEMENTS_AND_PERIODICITY.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY03-CLASSIFICATION_OF_ELEMENTS_AND_PERIODICITY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY04-CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY04-CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY05-THERMODYNAMICS.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY05-THERMODYNAMICS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY06-EQUILIBRIUM.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY06-EQUILIBRIUM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY07-REDOX_REACTIONS.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY07-REDOX_REACTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY08-ORGANIC_CHEMISTRY_BASIC_PRINCIPLES_AND_TECHNIQUES.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY08-ORGANIC_CHEMISTRY_BASIC_PRINCIPLES_AND_TECHNIQUES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMISTRY09-HYDROCARBONS.pdf",
+              "path": "NCERT-PDF/CHEMISTRY/CHEMISTRY09-HYDROCARBONS.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "COMPUTER-SCIENCE",
+          "children": [
+            {
+              "type": "file",
+              "name": "CS01-COMPUTER_SYSTEM.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS01-COMPUTER_SYSTEM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS03-EMERGING_TRENDS.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS03-EMERGING_TRENDS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS04-PROBLEM_SOLVING.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS04-PROBLEM_SOLVING.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS05-GETTING_STARTED_WITH_PYTHON.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS05-GETTING_STARTED_WITH_PYTHON.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS06-FLOW_OF_CONTROL.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS06-FLOW_OF_CONTROL.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS07-FUNCTIONS.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS07-FUNCTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS08-STRINGS.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS08-STRINGS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS09-LISTS.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS09-LISTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS10-TUPLES_AND_DICTIONARIES.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS10-TUPLES_AND_DICTIONARIES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CS11-SOCIETAL_IMPACTS.pdf",
+              "path": "NCERT-PDF/COMPUTER-SCIENCE/CS11-SOCIETAL_IMPACTS.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "MATHEMATICS",
+          "children": [
+            {
+              "type": "file",
+              "name": "MATHEMATICS-ANSWERS.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS-ANSWERS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-APPENDIX1.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS-APPENDIX1.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-APPENDIX2.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS-APPENDIX2.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SUPPLEMENTARY.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS-SUPPLEMENTARY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS01-SETS.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS01-SETS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS02-RELATIONS_AND_FUNCTIONS.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS05-LINEAR_INEQUALITIES.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS05-LINEAR_INEQUALITIES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS07-BINOMIAL_THEOREM.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS07-BINOMIAL_THEOREM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS08-SEQUENCES_AND_SERIES.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS08-SEQUENCES_AND_SERIES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS09-STRAIGHT_LINES.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS09-STRAIGHT_LINES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS10-CONIC_SECTIONS.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS10-CONIC_SECTIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS12-LIMITS_AND_DERIVATIVES.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS12-LIMITS_AND_DERIVATIVES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS13-STATISTICS.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS13-STATISTICS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS14-PROBABILITY.pdf",
+              "path": "NCERT-PDF/MATHEMATICS/MATHEMATICS14-PROBABILITY.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "PHYSICS",
+          "children": [
+            {
+              "type": "file",
+              "name": "PHYSICS-ANSWERS-UI.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS-ANSWERS-UI.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-ANSWERS-UII.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS-ANSWERS-UII.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-APPENDIX.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS-APPENDIX.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS01-UNITS_AND_MEASUREMENTS.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS01-UNITS_AND_MEASUREMENTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS02-MOTION_IN_A_STRAIGHT_LINE.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS02-MOTION_IN_A_STRAIGHT_LINE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS03-MOTION_IN_A_PLANE.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS03-MOTION_IN_A_PLANE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS04-LAWS_OF_MOTION.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS04-LAWS_OF_MOTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS05-WORK_ENERGY_AND_POWER.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS05-WORK_ENERGY_AND_POWER.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS06-SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS06-SYSTEM_OF_PARTICLES_AND_ROTATIONAL_MOTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS07-GRAVITATION.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS07-GRAVITATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS08-MECHANICAL_PROPERTIES_OF_SOLIDS.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS08-MECHANICAL_PROPERTIES_OF_SOLIDS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS09-MECHANICAL_PROPERTIES_OF_FLUIDS.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS09-MECHANICAL_PROPERTIES_OF_FLUIDS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS10-THERMAL_PROPERTIES_OF_MATTER.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS10-THERMAL_PROPERTIES_OF_MATTER.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS11-THERMODYNAMICS.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS11-THERMODYNAMICS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS12-KINETIC_THEORY.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS12-KINETIC_THEORY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS13-OSCILLATIONS.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS13-OSCILLATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS14-WAVES.pdf",
+              "path": "NCERT-PDF/PHYSICS/PHYSICS14-WAVES.pdf"
             }
           ]
         }
