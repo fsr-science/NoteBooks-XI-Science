@@ -5,7 +5,60 @@
     {
       "type": "folder",
       "name": "AI-NOTES",
-      "children": []
+      "children": [
+        {
+          "type": "folder",
+          "name": "BIOLOGY",
+          "children": []
+        },
+        {
+          "type": "folder",
+          "name": "CHEMISTRY",
+          "children": [
+            {
+              "type": "folder",
+              "name": "CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY-GLOSSARY.md",
+                  "path": "AI-NOTES/CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY-NOTES.md",
+                  "path": "AI-NOTES/CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY-PQs.md",
+                  "path": "AI-NOTES/CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY-PQs.md"
+                },
+                {
+                  "type": "file",
+                  "name": "CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY/CHEMISTRY01-SOME_BASIC_CONCEPTS_OF_CHEMISTRY-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "CHEMISTRY02-STRUCTURE_OF_ATOM",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "MATHEMATICS",
+          "children": []
+        },
+        {
+          "type": "folder",
+          "name": "PHYSICS",
+          "children": []
+        }
+      ]
     },
     {
       "type": "folder",
