@@ -44,7 +44,13 @@
             {
               "type": "folder",
               "name": "CHEMISTRY02-STRUCTURE_OF_ATOM",
-              "children": []
+              "children": [
+                {
+                  "type": "file",
+                  "name": "CHEMISTRY02-STRUCTURE_OF_ATOM-NOTES.md",
+                  "path": "AI-NOTES/CHEMISTRY/CHEMISTRY02-STRUCTURE_OF_ATOM/CHEMISTRY02-STRUCTURE_OF_ATOM-NOTES.md"
+                }
+              ]
             }
           ]
         },
