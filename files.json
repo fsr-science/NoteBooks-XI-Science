@@ -2615,11 +2615,6 @@
       "type": "file",
       "name": "README.md",
       "path": "README.md"
-    },
-    {
-      "type": "file",
-      "name": "script.sh",
-      "path": "script.sh"
     }
   ]
 }
