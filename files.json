@@ -47,8 +47,23 @@
               "children": [
                 {
                   "type": "file",
+                  "name": "CHEMISTRY02-STRUCTURE_OF_ATOM-GLOSSARY.md",
+                  "path": "AI-NOTES/CHEMISTRY/CHEMISTRY02-STRUCTURE_OF_ATOM/CHEMISTRY02-STRUCTURE_OF_ATOM-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
                   "name": "CHEMISTRY02-STRUCTURE_OF_ATOM-NOTES.md",
                   "path": "AI-NOTES/CHEMISTRY/CHEMISTRY02-STRUCTURE_OF_ATOM/CHEMISTRY02-STRUCTURE_OF_ATOM-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "CHEMISTRY02-STRUCTURE_OF_ATOM-PQs.md",
+                  "path": "AI-NOTES/CHEMISTRY/CHEMISTRY02-STRUCTURE_OF_ATOM/CHEMISTRY02-STRUCTURE_OF_ATOM-PQs.md"
+                },
+                {
+                  "type": "file",
+                  "name": "CHEMISTRY02-STRUCTURE_OF_ATOM-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/CHEMISTRY/CHEMISTRY02-STRUCTURE_OF_ATOM/CHEMISTRY02-STRUCTURE_OF_ATOM-REVISION_MINDMAPS.md"
                 }
               ]
             }
