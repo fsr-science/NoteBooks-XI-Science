@@ -2625,9 +2625,46 @@
           "name": "REFERENCE-BOOKS",
           "children": [
             {
+              "type": "folder",
+              "name": "CONCEPTS_OF_PHYSCS-HC_VERMA",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "CONCEPTS_OF_PHYSICS-HC_VERMA-VOL_I.pdf",
+                  "path": "SCIENCE/REFERENCE-BOOKS/CONCEPTS_OF_PHYSCS-HC_VERMA/CONCEPTS_OF_PHYSICS-HC_VERMA-VOL_I.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "CONCEPTS_OF_PHYSICS-HC_VERMA-VOL_II.pdf",
+                  "path": "SCIENCE/REFERENCE-BOOKS/CONCEPTS_OF_PHYSCS-HC_VERMA/CONCEPTS_OF_PHYSICS-HC_VERMA-VOL_II.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "MATHEMATICS-RD_SHARMA",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-RD_SHARMA-VOL_I.pdf",
+                  "path": "SCIENCE/REFERENCE-BOOKS/MATHEMATICS-RD_SHARMA/MATHEMATICS-RD_SHARMA-VOL_I.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-RD_SHARMA-VOL_II.pdf",
+                  "path": "SCIENCE/REFERENCE-BOOKS/MATHEMATICS-RD_SHARMA/MATHEMATICS-RD_SHARMA-VOL_II.pdf"
+                }
+              ]
+            },
+            {
               "type": "file",
-              "name": "CONCEPTS_OF_PHYSICS-I_HC_VERMA.pdf",
-              "path": "SCIENCE/REFERENCE-BOOKS/CONCEPTS_OF_PHYSICS-I_HC_VERMA.pdf"
+              "name": "PROBLEMS_IN_GENERAL_PHYSICS-IRODOV.pdf",
+              "path": "SCIENCE/REFERENCE-BOOKS/PROBLEMS_IN_GENERAL_PHYSICS-IRODOV.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PROBLEMS_IN_PHYSICAL_CHEMISTRY-NARENDRA_AWASTHI.pdf",
+              "path": "SCIENCE/REFERENCE-BOOKS/PROBLEMS_IN_PHYSICAL_CHEMISTRY-NARENDRA_AWASTHI.pdf"
             }
           ]
         }
