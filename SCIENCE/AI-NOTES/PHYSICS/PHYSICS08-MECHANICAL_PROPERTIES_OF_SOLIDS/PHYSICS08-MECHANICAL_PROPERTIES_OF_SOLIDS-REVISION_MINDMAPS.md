@@ -9,357 +9,391 @@
 ## 🔢 Key Definitions — Absolute Must-Memorise
 
 | Quantity | Definition | Formula | SI Unit |
-|---|---|---|---|
-| **Stress** | Restoring force per unit area | σ = F/A | Pa = N m⁻² |
-| **Longitudinal Strain** | Fractional change in length | ε = ΔL/L | Dimensionless |
-| **Shearing Strain** | Angular deformation | θ = Δx/L ≈ tan θ | Dimensionless |
-| **Volume Strain** | Fractional change in volume | ΔV/V | Dimensionless |
-| **Young's Modulus** | Long. stress / Long. strain (solids) | Y = FL/AΔL | Pa |
-| **Shear Modulus** | Shearing stress / Shearing strain (solids) | G = F/Aθ | Pa |
-| **Bulk Modulus** | Hydraulic stress / Volume strain | B = −p/(ΔV/V) | Pa |
-| **Poisson's Ratio** | Lateral strain / Longitudinal strain | ν = (Δd/d)/(ΔL/L) | Dimensionless |
-| **Elastic PE density** | Energy stored per unit volume | u = ½σε | J m⁻³ |
+|:---|:---|:---|:---|
+| **Stress** | Restoring force per unit area | $\sigma = F/A$ | Pa = N m⁻² |
+| **Longitudinal Strain** | Fractional change in length | $\varepsilon = \Delta L/L$ | Dimensionless |
+| **Shearing Strain** | Angular deformation of body | $\theta = \Delta x/L \approx \tan\theta$ | Dimensionless |
+| **Volume Strain** | Fractional change in volume | $\Delta V/V$ | Dimensionless |
+| **Young's Modulus** | Longitudinal stress / Longitudinal strain (solids) | $Y = FL/(A\Delta L)$ | Pa |
+| **Shear Modulus** | Shearing stress / Shearing strain (solids) | $G = F/(A\theta)$ | Pa |
+| **Bulk Modulus** | Hydraulic stress / Volume strain (all matter) | $B = -p/(\Delta V/V)$ | Pa |
+| **Compressibility** | Reciprocal of bulk modulus | $k = 1/B$ | Pa⁻¹ |
+| **Poisson's Ratio** | Lateral strain / Longitudinal strain | $\nu = (\Delta d/d)/(\Delta L/L)$ | Dimensionless |
+| **Elastic PE density** | Energy stored per unit volume | $u = \tfrac{1}{2}\sigma\varepsilon$ | J m⁻³ |
 
 ---
 
 ## 📐 Essential Formulae — Must Know Cold
 
-```
-STRESS (General):
-    ┌────────────────────────────────────────────────────────┐
-    │  σ = F/A  [ML⁻¹T⁻²] = Pa = N m⁻²                     │
-    │  Three types: Tensile | Shearing | Hydraulic           │
-    │  Stress is NOT a vector                                │
-    └────────────────────────────────────────────────────────┘
+> [!important] Hooke's Law
+> For small deformations, **stress is directly proportional to strain**:
+>
+> $$\text{Stress} = k \times \text{Strain}$$
+>
+> where $k$ is the **modulus of elasticity**. Valid **only in the linear (proportional) region O to A** of the stress-strain curve.
+>
+> Elastomers (rubber, aortic tissue) do **NOT** obey Hooke's law.
 
-HOOKE'S LAW:
-    ┌────────────────────────────────────────────────────────┐
-    │  Stress = k × Strain  (k = modulus of elasticity)     │
-    │  Valid ONLY in the linear region (O → A on curve)     │
-    │  Elastomers (rubber, aorta tissue) do NOT obey this   │
-    └────────────────────────────────────────────────────────┘
+> [!important] Young's Modulus — Solids Only
+> $$Y = \frac{\sigma}{\varepsilon} = \frac{F/A}{\Delta L/L} = \frac{F \cdot L}{A \cdot \Delta L}$$
+>
+> Hooke's form: $F = Y \cdot A \cdot \dfrac{\Delta L}{L}$ (wire acts like a spring with $k_\text{eff} = YA/L$)
+>
+> Steel: 200 GPa | Copper: 110 GPa | Al: 70 GPa | **Large $Y$ = more elastic (stiffer)**
 
-YOUNG'S MODULUS:
-    ┌────────────────────────────────────────────────────────┐
-    │  Y = (F·L)/(A·ΔL) = σ/ε                               │
-    │  → F/A = Y × ΔL/L  (Hooke's form for tension)        │
-    │  Steel: 200 GPa > Copper: 110 GPa > Al: 70 GPa        │
-    │  SOLIDS ONLY;  Large Y = more elastic (stiffer)        │
-    └────────────────────────────────────────────────────────┘
+> [!important] Shear Modulus — Solids Only
+> $$G = \frac{\sigma_s}{\theta} = \frac{F/A}{\Delta x/L} = \frac{F \cdot L}{A \cdot \Delta x}$$
+>
+> Hooke's form: $\sigma_s = G \times \theta$
+>
+> Steel: 84 GPa | Cu: 42 GPa | Al: 25 GPa | For most materials: $G \approx Y/3$
 
-SHEAR MODULUS:
-    ┌────────────────────────────────────────────────────────┐
-    │  G = (F·L)/(A·Δx) = F/(A·θ)                           │
-    │  → F/A = G × θ  (Hooke's form for shear)              │
-    │  G ≈ Y/3 for most materials                           │
-    │  Steel: 84 GPa; Al: 25 GPa;  SOLIDS ONLY              │
-    └────────────────────────────────────────────────────────┘
+> [!important] Bulk Modulus — Solids + Liquids + Gases
+> $$B = -\frac{p}{\Delta V/V} \quad \Longrightarrow \quad p = B \cdot \frac{\Delta V}{V}$$
+>
+> Compressibility: $k = \dfrac{1}{B} = -\dfrac{1}{\Delta p} \times \dfrac{\Delta V}{V}$
+>
+> Steel: 160 GPa | Water: 2.2 GPa | Air (STP): $1.0 \times 10^{-4}$ GPa
+>
+> Gases are approximately **$10^6$ times more compressible** than solids.
 
-BULK MODULUS:
-    ┌────────────────────────────────────────────────────────┐
-    │  B = −p/(ΔV/V)  →  p = B(ΔV/V)                        │
-    │  Compressibility k = 1/B                              │
-    │  Gases ≈ 10⁶ × more compressible than solids          │
-    │  SOLIDS + LIQUIDS + GASES                             │
-    └────────────────────────────────────────────────────────┘
+> [!important] Poisson's Ratio
+> $$\nu = \frac{\text{lateral strain}}{\text{longitudinal strain}} = \frac{\Delta d/d}{\Delta L/L}$$
+>
+> Pure number (dimensionless). Theoretical range: $-1$ to $0.5$. For steels: $\nu \approx 0.28$–$0.30$; Al alloys: $\nu \approx 0.33$.
 
-POISSON'S RATIO:
-    ┌────────────────────────────────────────────────────────┐
-    │  ν = (Δd/d) / (ΔL/L)                                  │
-    │  Pure number; range −1 to 0.5 (usually 0 to 0.5)     │
-    │  Steel: 0.28–0.30;  Al alloys: 0.33                   │
-    └────────────────────────────────────────────────────────┘
+> [!important] Elastic Potential Energy
+> Energy per unit volume stored in a deformed body:
+>
+> $$u = \frac{1}{2}\sigma\varepsilon = \frac{1}{2}Y\varepsilon^2$$
+>
+> Total PE in wire: $U = u \times \text{volume} = \dfrac{1}{2} F \cdot \Delta L$
 
-ELASTIC POTENTIAL ENERGY:
-    ┌────────────────────────────────────────────────────────┐
-    │  u = ½ × stress × strain = ½ × Y × ε²                │
-    │  Total PE in wire = ½ × F × ΔL                        │
-    └────────────────────────────────────────────────────────┘
-
-BEAM SAG FORMULA:
-    ┌────────────────────────────────────────────────────────┐
-    │  δ = Wl³/(4bd³Y)                                      │
-    │  d ↑ is most effective (δ ∝ d⁻³ vs δ ∝ b⁻¹)          │
-    │  → I-shaped beam: large d, prevents buckling           │
-    └────────────────────────────────────────────────────────┘
-```
+> [!important] Beam Sag Formula
+> A beam of length $l$, breadth $b$, depth $d$, Young's modulus $Y$, loaded at centre by $W$:
+>
+> $$\delta = \frac{Wl^3}{4bd^3Y}$$
+>
+> $\delta \propto l^3$ | $\delta \propto d^{-3}$ | $\delta \propto b^{-1}$ | $\delta \propto Y^{-1}$
+>
+> **Increasing depth $d$ is most effective** — cubic relationship ($d^{-3}$) vs linear ($b^{-1}$) for breadth.
 
 ---
 
 ## 📊 Comparative Values — Important for MCQs
 
-```
-─────────────────────────────────────────────────────────────────
-YOUNG'S MODULUS (Y) ranking:
-  Steel > Iron > Copper > Aluminium > Glass > Concrete > Wood > Bone
-  200   > 190  > 110    > 70       > 65    > 30       > 13   > 9.4  (GPa)
-─────────────────────────────────────────────────────────────────
-SHEAR MODULUS (G) ranking:
-  Tungsten > Steel > Nickel > Iron > Copper > Brass > Al > Glass > Wood > Lead
-  150      > 84    > 77     > 70   > 42     > 36    > 25 > 23    > 10   > 5.6 (GPa)
-─────────────────────────────────────────────────────────────────
-BULK MODULUS (B) for selected substances:
-  Nickel (260) > Steel (160) > Copper (140) > Iron (100) > Al (72)
-  [Water: 2.2 GPa; Air at STP: 10⁻⁴ GPa]
-─────────────────────────────────────────────────────────────────
-GENERAL RELATION: G ≈ Y/3 for most materials
-─────────────────────────────────────────────────────────────────
-```
+**Young's Modulus Y:**
+
+| Material | Steel | Iron | Copper | Al | Glass | Concrete | Wood | Bone |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Y (GPa) | 200 | 190 | 110 | 70 | 65 | 30 | 13 | 9.4 |
+
+**Shear Modulus G:**
+
+| Material | Tungsten | Steel | Nickel | Iron | Copper | Brass | Al | Lead |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| G (GPa) | 150 | 84 | 77 | 70 | 42 | 36 | 25 | 5.6 |
+
+**Bulk Modulus B:**
+
+| Material | Nickel | Steel | Copper | Iron | Al | Water | Air (STP) |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| B (GPa) | 260 | 160 | 140 | 100 | 72 | 2.2 | $10^{-4}$ |
+
+> [!note] Key relation: $G \approx Y/3$ for most metallic materials (from the tables above: e.g. Steel Y = 200, G = 84 ≈ 200/3).
 
 ---
 
 ## ⚠️ Critical Distinctions — High-Yield Exam Traps
 
-```
-STRESS-STRAIN CURVE TRAPS:
-  ✓ O → A: Hooke's law (linear); elastic; fully recoverable
-  ✓ A → B: Non-linear but still elastic (recoverable); Hooke fails
-  ✓ Beyond B (yield point): PLASTIC deformation; permanent set
-  ✓ D = Ultimate tensile strength (maximum stress; NOT fracture point!)
-  ✓ E = Fracture point (where wire actually breaks)
-  ✓ Brittle: D and E are CLOSE; Ductile: D and E are FAR APART
-  ✓ Elastomers (rubber): very large elastic region; non-linear; no clear plastic region
+> [!warning] Stress-Strain Curve Traps
+> - O → A: Linear + Elastic — Hooke's law valid; **slope = Young's modulus $Y$**.
+> - A → B: **Non-linear but still elastic** — body recovers on unloading; Hooke's law fails.
+> - Beyond B (yield point): **Plastic deformation** — permanent set; no recovery.
+> - Point D = **Ultimate tensile strength** (maximum stress point) — **NOT** the fracture point.
+> - Point E = **Fracture point** (where material actually breaks).
+> - **Brittle:** D and E are close (sudden fracture) | **Ductile:** D and E are far apart (necking).
+> - Elastomers (rubber): very large elastic region; non-linear; **no clear plastic region**.
 
-MODULI TRAPS:
-  ✓ Y and G → SOLIDS ONLY (fluids have no shape to maintain)
-  ✓ B → Solids + Liquids + Gases (all change volume under pressure)
-  ✓ For a given material, G < Y (specifically G ≈ Y/3)
-  ✓ LARGE Y = MORE ELASTIC (stiffer) — not less elastic!
-  ✓ Steel IS more elastic than rubber (higher Y), even though rubber stretches more
+> [!warning] Elastic Moduli Traps
+> - $Y$ and $G$ apply to **SOLIDS ONLY** (fluids have no fixed shape).
+> - $B$ applies to **solids, liquids and gases** (all change volume under pressure).
+> - For any material: $G < Y$; specifically $G \approx Y/3$.
+> - **Large $Y$ = MORE elastic (stiffer)** — NOT less elastic!
+> - Steel ($Y = 200$ GPa) is **more elastic** than rubber (very low $Y$), even though rubber stretches far more. "Stretches more" ≠ "more elastic" in physics.
 
-STRESS TRAPS:
-  ✓ Stress = F/A is the RESTORING force per unit area (not the applied force)
-    — they are equal in magnitude, but conceptually different
-  ✓ Stress is NOT a vector (cannot be assigned one direction)
-  ✓ For hanging wire with load W: tension at ANY cross-section = W (not 2W)
-    The ceiling reaction is equal and opposite to the whole wire's weight+load,
-    but at any interior cross-section, tension = weight below that section
+> [!warning] Stress Traps
+> - Stress = F/A is the **restoring** force per unit area — equal in magnitude to the applied force, but conceptually different.
+> - Stress is **NOT a vector** — it cannot be assigned a single direction like a force.
+> - For a wire hanging with load $W$: tension at **any cross-section = $W$** (not $2W$). The ceiling reaction acts on the whole wire; tension at an interior section equals only the weight below it.
 
-STRAIN TRAPS:
-  ✓ Shearing strain = tan θ ≈ θ (only for SMALL θ!)
-  ✓ All strains are DIMENSIONLESS
-  ✓ Longitudinal strain: only change in LENGTH; no change in cross-section shape
-  ✓ Volume strain: only change in VOLUME; no change in shape
+> [!warning] Strain and Hooke's Law Traps
+> - Shearing strain = $\tan\theta \approx \theta$ — valid **only for small $\theta$**.
+> - All strains are **dimensionless** (no units, no dimensional formula).
+> - Hooke's law is valid **only in the linear region O to A**; the elastic region A to B is still recoverable but does NOT obey Hooke's law.
+> - **Proportional limit (A) $\neq$ elastic limit (B)**. Proportional limit ends linearity; elastic limit (yield point) ends recovery. $B \geq A$ always.
 
-BEAM/APPLICATION TRAPS:
-  ✓ Increasing depth d reduces sag MUCH MORE than increasing breadth b
-    δ ∝ d⁻³ vs δ ∝ b⁻¹ — cube vs linear relationship
-  ✓ I-shaped beam: optimises depth (stiffness) while the flanges prevent buckling
-  ✓ Mountain max height ~10 km: from elastic limit of rock, NOT atmosphere limit
+> [!warning] Applications Traps
+> - $\delta \propto d^{-3}$ but $\delta \propto b^{-1}$ — increasing depth is **far more effective** than breadth.
+> - I-beam: large depth resists bending; flanges at top/bottom prevent **buckling**.
+> - Maximum mountain height $\approx 10$ km — derived from the **elastic limit of rock**, not the atmosphere.
+> - Crane rope radius in practice $\approx 3$ cm, NOT 1 cm — a factor-of-10 safety margin is always applied.
 
-ELASTIC PE TRAPS:
-  ✓ u = ½σε (per unit volume); Total PE = ½Fδ (like a spring, ½ × force × extension)
-  ✓ NOT u = σε (missing the ½ factor)
-```
+> [!warning] Elastic PE Traps
+> - $u = \dfrac{1}{2}\sigma\varepsilon$ per unit volume — **do NOT drop the $\tfrac{1}{2}$**.
+> - Total PE $= \dfrac{1}{2} F \cdot \Delta L$ — same factor as for a spring ($\tfrac{1}{2}kx^2$).
+> - $B = -p/(\Delta V/V)$ — **negative sign is essential**; pressure increase → volume decrease.
 
 ---
 
 # 🗺️ MIND MAP 1 — Chapter Overview
 
-```
-                    ┌───────────────────────────────────────────────────────┐
-                    │        MECHANICAL PROPERTIES OF SOLIDS                 │
-                    └───────────────────────────────────┬───────────────────┘
-                                                        │
-       ┌──────────────┬────────────────┬────────────────┼────────────────┬────────────────┐
-       ▼              ▼                ▼                ▼                ▼                ▼
-┌───────────┐  ┌──────────┐  ┌──────────────┐  ┌─────────────┐  ┌──────────────┐  ┌──────────────┐
-│  ELASTIC  │  │  STRESS  │  │    STRAIN    │  │  HOOKE'S   │  │   ELASTIC    │  │ APPLICATIONS │
-│ vs PLASTIC│  │  TYPES   │  │    TYPES     │  │    LAW      │  │    MODULI    │  │              │
-└─────┬─────┘  └────┬─────┘  └──────┬───────┘  └──────┬──────┘  └──────┬───────┘  └──────┬───────┘
-      │             │               │                  │                │                 │
-  Elastic:      Tensile         Longitudinal       σ = k × ε       Y (Young's)       Cranes
-  recovers      Compressive     ΔL/L               (linear region)  G (Shear)         Beams (I-shape)
-               Shearing         θ = Δx/L           k = modulus     B (Bulk)          Mountains
-  Plastic:     Hydraulic        ΔV/V               of elasticity   Poisson's ν        max ~10 km
-  permanent                                                         Elastic PE: u     Steel ropes
+```mermaid
+flowchart TD
+    ROOT(["MECHANICAL PROPERTIES OF SOLIDS"])
+    ROOT --> EL["ELASTIC vs PLASTIC"]
+    ROOT --> ST["STRESS"]
+    ROOT --> SR["STRAIN"]
+    ROOT --> HL["HOOKE'S LAW"]
+    ROOT --> EM["ELASTIC MODULI"]
+    ROOT --> AP["APPLICATIONS"]
+
+    EL --> EL1["Elastic: body recovers original shape on unloading"]
+    EL --> EL2["Plastic: body permanently deformed"]
+    EL2 --> EL3["Putty and clay: close to ideal plastics"]
+
+    ST --> ST1["Tensile: perpendicular outward forces"]
+    ST --> ST2["Compressive: perpendicular inward forces"]
+    ST --> ST3["Shearing: parallel forces on opposite faces"]
+    ST --> ST4["Hydraulic: uniform pressure from all sides"]
+    ST4 --> ST5["Stress = F/A; unit Pa; NOT a vector"]
+
+    SR --> SR1["Longitudinal: delta_L/L"]
+    SR --> SR2["Shearing: theta = delta_x/L"]
+    SR --> SR3["Volume: delta_V/V"]
+    SR3 --> SR4["All strains: DIMENSIONLESS"]
+
+    HL --> HL1["Stress = k x Strain (small deformations)"]
+    HL1 --> HL2["Valid only in LINEAR region O to A"]
+    HL2 --> HL3["Elastomers do NOT obey Hooke's law"]
+
+    EM --> EM1["Young's Y: longitudinal; solids only"]
+    EM --> EM2["Shear G: tangential; solids only"]
+    EM --> EM3["Bulk B: hydraulic; solids + liquids + gases"]
+    EM3 --> EM4["G approx Y/3 for most materials"]
+
+    AP --> AP1["Crane ropes: A = Mg/sigma_y"]
+    AP --> AP2["I-beams: delta = Wl^3/(4bd^3 Y)"]
+    AP --> AP3["Mountains: max height approx 10 km"]
+
+    style ROOT fill:#2c3e50,color:#ecf0f1,stroke:#3498db
+    style EL fill:#1a3d2e,color:#a9dfbf,stroke:#27ae60
+    style ST fill:#1e3a5f,color:#aed6f1,stroke:#3498db
+    style SR fill:#3d2a1a,color:#f0d0a8,stroke:#e67e22
+    style HL fill:#3d1a1a,color:#ffd0d0,stroke:#e74c3c
+    style EM fill:#2d1a3d,color:#d9b3ff,stroke:#9b59b6
+    style AP fill:#1a3d2e,color:#a9dfbf,stroke:#27ae60
 ```
 
 ---
 
-# 🗺️ MIND MAP 2 — Three Elastic Moduli
+# 🗺️ MIND MAP 2 — Types of Stress and Strain
 
-```
-                ┌────────────────────────────────────────────────────────┐
-                │                  ELASTIC MODULI                         │
-                └────────────────────────┬───────────────────────────────┘
-                                         │
-          ┌──────────────────────────────┼───────────────────────────────┐
-          ▼                              ▼                               ▼
-┌──────────────────────┐   ┌──────────────────────────┐   ┌──────────────────────────┐
-│   YOUNG'S MODULUS    │   │     SHEAR MODULUS (G)     │   │    BULK MODULUS (B)      │
-│        (Y)           │   │   Modulus of Rigidity     │   │                          │
-└──────────┬───────────┘   └──────────┬───────────────┘   └──────────┬───────────────┘
-           │                          │                               │
-  Y = FL/(AΔL)              G = F·L/(A·Δx)                 B = −p/(ΔV/V)
-  Y = σ/ε                   G = F/(A·θ)                    k = 1/B (compressibility)
-           │                          │                               │
-  Stress: ⊥ to surface       Stress: ‖ to surface          Stress: ⊥ everywhere
-  Strain: ΔL/L               Strain: θ = Δx/L              (uniform pressure)
-           │                          │                    Strain: ΔV/V
-  Shape changes: YES         Shape changes: YES                       │
-  Volume changes: NO         Volume changes: NO             Shape changes: NO
-           │                          │                    Volume changes: YES
-  Applies to: SOLIDS          Applies to: SOLIDS                      │
-           │                          │                    Applies to: ALL MATTER
-  G ≈ Y/3 for most            Shear → solids only;                   │
-  metals                      fluids FLOW under                Gases ≈ 10⁶ × more
-           │                  shear → no G                    compressible than solids
-  Steel: 200 GPa              Steel: 84 GPa                  Steel: 160 GPa
-  Copper: 110 GPa             Cu: 42 GPa                     Water: 2.2 GPa
-  Al: 70 GPa                  Al: 25 GPa                     Air: 10⁻⁴ GPa
+```mermaid
+flowchart TD
+    ROOT(["TYPES OF STRESS AND STRAIN"])
+    ROOT --> LS["LONGITUDINAL STRESS"]
+    ROOT --> SS["SHEARING STRESS"]
+    ROOT --> HS["HYDRAULIC STRESS"]
+
+    LS --> LS1["Tensile: perpendicular outward forces (stretching)"]
+    LS --> LS2["Compressive: perpendicular inward forces (compression)"]
+    LS2 --> LS3["Strain: delta_L/L (longitudinal)"]
+    LS3 --> LS4["Shape changes: YES; Volume changes: NO"]
+    LS4 --> LS5["Modulus: Y = F*L/(A*delta_L)"]
+    LS5 --> LS6["Applies to SOLIDS only"]
+
+    SS --> SS1["Two equal and opposite parallel forces on faces"]
+    SS1 --> SS2["Strain: theta = delta_x/L (angular deformation)"]
+    SS2 --> SS3["Pure shear: shape changes YES; volume NO"]
+    SS3 --> SS4["Modulus: G = F/(A*theta); G approx Y/3"]
+    SS4 --> SS5["Applies to SOLIDS ONLY (fluids flow under shear)"]
+
+    HS --> HS1["Uniform pressure from all sides (e.g. submerged body)"]
+    HS1 --> HS2["Strain: delta_V/V (volume strain)"]
+    HS2 --> HS3["Shape changes: NO; Volume changes: YES"]
+    HS3 --> HS4["Modulus: B = -p/(delta_V/V)"]
+    HS4 --> HS5["Applies to solids, liquids AND gases"]
+    HS5 --> HS6["Gases: 10^6 times more compressible than solids"]
+
+    style ROOT fill:#2c3e50,color:#ecf0f1,stroke:#3498db
+    style LS fill:#1e3a5f,color:#aed6f1,stroke:#3498db
+    style SS fill:#1a3d2e,color:#a9dfbf,stroke:#27ae60
+    style HS fill:#3d2a1a,color:#f0d0a8,stroke:#e67e22
 ```
 
 ---
 
 # 🗺️ MIND MAP 3 — Stress-Strain Curve
 
-```
-                ┌───────────────────────────────────────────────────────┐
-                │              STRESS-STRAIN CURVE (METAL)               │
-                └───────────────────────────────────────────────────────┘
+```mermaid
+flowchart TD
+    ROOT(["STRESS-STRAIN CURVE — Typical Metal"])
+    ROOT --> OA["Region O to A: LINEAR + ELASTIC"]
+    ROOT --> AB["Region A to B: NON-LINEAR + ELASTIC"]
+    ROOT --> BD["Region B to D: PLASTIC (permanent set)"]
+    ROOT --> DE["Region D to E: NECKING + FRACTURE"]
 
-Stress
-σu ─────────────────────────────────────────── D ────── E (FRACTURE)
-                                               ↑        ↑
-                                    Ultimate TS     Fracture pt.
-σy ─────────────────── B ──────── C              BRITTLE: D,E close
-                       ↑                         DUCTILE: D,E far
-                  Yield point                  PLASTIC REGION (B→E)
-               (Elastic limit)                 Permanent set if unloaded at C
-                      /
-                     / A ← Proportional limit (Hooke's law ends here)
-                    /  (Linear region O→A: Hooke's law obeyed)
-                   /   (Elastic region O→B: material recovers)
-                  /
-                 /   Slope = Y = σ/ε = Young's modulus
-                /
-               O ────────────────────────────────────────────► Strain
-               (<1% for metals)                         (~30% at fracture)
+    OA --> OA1["Hooke's law obeyed: stress proportional to strain"]
+    OA1 --> OA2["Slope of line = Young's modulus Y"]
+    OA2 --> OA3["Point A: Proportional Limit (linearity ends here)"]
 
+    AB --> AB1["Stress-strain no longer proportional"]
+    AB1 --> AB2["Body STILL recovers on unloading (elastic)"]
+    AB2 --> AB3["Point B: Yield Point = Elastic Limit"]
+    AB3 --> AB4["Stress at B = yield strength sigma_y"]
 
-KEY REGIONS:
-  O → A: Linear + Elastic (Hooke's law valid; Y = slope)
-  A → B: Non-linear + Elastic (no Hooke's law; but body recovers)
-  B → D: Non-linear + PLASTIC (permanent deformation; Hooke invalid)
-  D → E: Necking region (strain ↑ even as stress ↓; fracture imminent)
+    BD --> BD1["Stress exceeds yield strength"]
+    BD1 --> BD2["Permanent plastic deformation begins"]
+    BD2 --> BD3["Unloaded at C: permanent set remains (strain not zero)"]
+    BD3 --> BD4["Point D: Ultimate Tensile Strength sigma_u (MAX stress)"]
 
-SPECIAL CURVES:
-  Elastomers (rubber): Very large elastic region; no plastic region; non-linear
-  Brittle (glass): Short curve; D and E nearly coincide; sudden fracture
-  Ductile (copper): Long plastic region; significant necking before fracture
+    DE --> DE1["Strain increases as stress decreases (after D)"]
+    DE1 --> DE2["Necking: local area reduction in wire"]
+    DE2 --> DE3["Point E: FRACTURE — material breaks"]
+    DE3 --> DE4["Brittle: D and E close; Ductile: D and E far apart"]
+
+    style ROOT fill:#2c3e50,color:#ecf0f1,stroke:#3498db
+    style OA fill:#1a3d2e,color:#a9dfbf,stroke:#27ae60
+    style AB fill:#1e3a5f,color:#aed6f1,stroke:#3498db
+    style BD fill:#3d2a1a,color:#f0d0a8,stroke:#e67e22
+    style DE fill:#3d1a1a,color:#ffd0d0,stroke:#e74c3c
 ```
 
 ---
 
 # 🗺️ MIND MAP 4 — Applications of Elastic Behaviour
 
-```
-                ┌───────────────────────────────────────────────────────┐
-                │           APPLICATIONS OF ELASTIC BEHAVIOUR            │
-                └──────────────────────────┬────────────────────────────┘
-                                           │
-       ┌──────────────────┬────────────────┼────────────────┬───────────────────┐
-       ▼                  ▼                ▼                ▼                   ▼
-┌─────────────┐  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐  ┌──────────────────┐
-│ CRANE ROPES │  │  BEAMS IN    │  │  PILLARS /   │  │  MOUNTAIN    │  │ ARTIFICIAL LIMBS │
-│             │  │ BUILDINGS &  │  │  COLUMNS     │  │ MAX HEIGHT   │  │  & AEROPLANES    │
-│             │  │  BRIDGES     │  │              │  │              │  │                  │
-└──────┬──────┘  └──────┬───────┘  └──────┬───────┘  └──────┬───────┘  └────────┬─────────┘
-       │                │                 │                  │                   │
-  Need A ≥ W/σy    Sag δ = Wl³/4bd³Y  Rounded ends:     hρg ≤ elastic     Need high Y
-  (yield strength)       │         less load-bearing     limit of rock     and low ρ
-                         │         Distributed ends:     h = 30×10⁷/       (strength-to-
-  A = Mg/σy             │         more stable           (3×10³×10)        weight ratio)
-  = 3.3×10⁻⁴ m²         │                              = 10 km
-  (radius ~1 cm)    To reduce δ:                       (>Mt. Everest)
-                    • Use large Y                    
-  With safety       • Increase d (best: δ∝d⁻³)      
-  factor ×10        • Use I-shape: depth + flanges   
-  radius ~3 cm        (stops buckling)               
-                    • Keep span l small              
+```mermaid
+flowchart TD
+    ROOT(["APPLICATIONS OF ELASTIC BEHAVIOUR"])
+    ROOT --> CR["CRANE ROPES"]
+    ROOT --> IB["I-SHAPED BEAMS"]
+    ROOT --> PC["PILLARS AND COLUMNS"]
+    ROOT --> MH["MOUNTAIN MAX HEIGHT"]
+
+    CR --> CR1["Crane lifts 10 tonnes without permanent deformation"]
+    CR1 --> CR2["Required cross-section: A = Mg/sigma_y"]
+    CR2 --> CR3["A = (10^4 x 9.8)/(300 x 10^6) = 3.3 x 10^-4 m^2"]
+    CR3 --> CR4["Radius: approx 1 cm (minimum, no safety factor)"]
+    CR4 --> CR5["Safety factor x 10: radius approx 3 cm in practice"]
+    CR5 --> CR6["Single thick wire is rigid: ropes are BRAIDED thin wires"]
+
+    IB --> IB1["Sag: delta = Wl^3 / (4 b d^3 Y)"]
+    IB1 --> IB2["Reduce sag: use material with large Y"]
+    IB2 --> IB3["Increase depth d: most effective (delta proportional to d^-3)"]
+    IB3 --> IB4["Increase breadth b: less effective (delta proportional to b^-1)"]
+    IB4 --> IB5["Problem: deep thin bar may BUCKLE sideways under load"]
+    IB5 --> IB6["Solution: I-shape: large d plus flanges to prevent buckling"]
+
+    PC --> PC1["Rounded-end pillar: less load-bearing capacity"]
+    PC1 --> PC2["Distributed-end pillar (wider base): more stable and stronger"]
+
+    MH --> MH1["Elastic limit of rock: approx 30 x 10^7 N m^-2"]
+    MH1 --> MH2["Shear stress at mountain base = h x rho x g"]
+    MH2 --> MH3["Set h x rho x g = elastic limit of rock"]
+    MH3 --> MH4["h = 10 km (exceeds height of Mt. Everest)"]
+
+    style ROOT fill:#2c3e50,color:#ecf0f1,stroke:#3498db
+    style CR fill:#1e3a5f,color:#aed6f1,stroke:#3498db
+    style IB fill:#1a3d2e,color:#a9dfbf,stroke:#27ae60
+    style PC fill:#3d2a1a,color:#f0d0a8,stroke:#e67e22
+    style MH fill:#3d1a1a,color:#ffd0d0,stroke:#e74c3c
 ```
 
 ---
 
-# 🗺️ MIND MAP 5 — Relationship Between Quantities
+# 🗺️ MIND MAP 5 — Connecting Stress, Strain and Moduli
 
-```
-                ┌──────────────────────────────────────────────┐
-                │     CONNECTING STRESS, STRAIN, MODULI        │
-                └──────────────────────────────────────────────┘
+```mermaid
+flowchart TD
+    ROOT(["FORCE APPLIED TO A SOLID BODY"])
+    ROOT --> PERP["Perpendicular to cross-section"]
+    ROOT --> PAR["Parallel to surface"]
+    ROOT --> UNI["Uniform from all sides (pressure)"]
 
-FORCE F applied to body →
-         │
-         ├── PERPENDICULAR to cross-section:
-         │       → LONGITUDINAL STRESS = F/A
-         │       → LONGITUDINAL STRAIN = ΔL/L
-         │       → YOUNG'S MODULUS Y = (F/A)/(ΔL/L)
-         │       → Hooke's form: F = YA(ΔL)/L  [like spring: F = kx]
-         │              Spring constant k = YA/L
-         │
-         ├── PARALLEL to surface:
-         │       → SHEARING STRESS = F/A
-         │       → SHEARING STRAIN = θ = Δx/L
-         │       → SHEAR MODULUS G = (F/A)/θ
-         │
-         └── UNIFORM from ALL SIDES (pressure p):
-                 → HYDRAULIC STRESS = p
-                 → VOLUME STRAIN = ΔV/V
-                 → BULK MODULUS B = −p/(ΔV/V)
-                 → Compressibility k = 1/B
+    PERP --> P1["Longitudinal Stress sigma = F/A"]
+    P1 --> P2["Longitudinal Strain epsilon = delta_L/L"]
+    P2 --> P3["Young's Modulus Y = sigma/epsilon"]
+    P3 --> P4["Hooke's form: F = YA(delta_L/L)"]
+    P4 --> P5["Effective spring constant: k_eff = YA/L"]
 
-LATERAL EFFECT:
-  When wire is stretched (ΔL, longitudinal), diameter decreases (Δd, lateral)
-  → POISSON'S RATIO ν = (Δd/d)/(ΔL/L)
+    PAR --> S1["Shearing Stress sigma_s = F/A"]
+    S1 --> S2["Shearing Strain theta = delta_x/L"]
+    S2 --> S3["Shear Modulus G = sigma_s/theta"]
+    S3 --> S4["SOLIDS ONLY: fluids flow under shear stress"]
 
-ENERGY:
-  Stretching a wire stores elastic PE:
-  u = ½ × stress × strain = ½ × Y × ε² [per unit volume]
-  Total PE = u × volume = ½ × F × ΔL
+    UNI --> U1["Hydraulic Stress = pressure p"]
+    U1 --> U2["Volume Strain = delta_V/V"]
+    U2 --> U3["Bulk Modulus B = -p/(delta_V/V)"]
+    U3 --> U4["Compressibility k = 1/B"]
+
+    P2 --> LAT["Lateral (Poisson) effect"]
+    LAT --> LAT1["Wire stretches longitudinally: diameter decreases"]
+    LAT1 --> LAT2["Poisson's ratio: nu = (delta_d/d)/(delta_L/L)"]
+
+    P2 --> PE["Elastic PE stored in deformed body"]
+    PE --> PE1["Density: u = (1/2) sigma epsilon (J m^-3)"]
+    PE1 --> PE2["Total PE in wire = (1/2) x F x delta_L"]
+
+    style ROOT fill:#2c3e50,color:#ecf0f1,stroke:#3498db
+    style PERP fill:#1e3a5f,color:#aed6f1,stroke:#3498db
+    style PAR fill:#1a3d2e,color:#a9dfbf,stroke:#27ae60
+    style UNI fill:#3d2a1a,color:#f0d0a8,stroke:#e67e22
+    style LAT fill:#2d1a3d,color:#d9b3ff,stroke:#9b59b6
+    style PE fill:#3d1a1a,color:#ffd0d0,stroke:#e74c3c
 ```
 
 ---
 
 ## 🏆 Last-Minute Exam Checklist
 
-```
-Before answering any Mechanical Properties question:
-
-□ Which modulus? → Tensile/Compressive = Y; Shearing = G; Hydraulic = B
-□ Formula for Young's modulus? → Y = FL/(AΔL); cross-check units (Pa)
-□ Beam sag formula? → δ = Wl³/(4bd³Y); identify which variable to change
-□ Which modulus applies to fluids? → ONLY bulk modulus (B); NOT Y or G
-□ Hooke's law valid? → Only in LINEAR region of stress-strain curve (O→A)
-□ More elastic = ? → LARGER Y; steel MORE elastic than rubber (not less!)
-□ Stress a vector? → NO; stress is not a vector quantity
-□ Tension in hanging wire at cross-section? → F (load below), NOT 2F
-□ G vs Y? → G ≈ Y/3 for most materials; G < Y always
-□ Gases vs solids for bulk modulus? → Gases ≈ 10⁶ × more compressible
-□ Yield point vs proportional limit? → Both at different positions; yield point ≥ proportional limit
-□ Fracture point vs ultimate tensile strength? → UTS (D) is max stress point; E is fracture
-□ Brittle vs ductile? → Brittle: D and E close; Ductile: D and E far apart
-□ Elastomers? → Large elastic region; DO NOT obey Hooke's law; no defined plastic region
-□ Elastic PE? → u = ½σε per unit volume; total = ½F·ΔL
-□ Mountain max height? → hρg ≤ elastic limit of rock → h ≈ 10 km
-□ I-beam shape reason? → Depth d resists bending (δ∝d⁻³); flanges prevent buckling
-□ Poisson's ratio? → lateral strain/longitudinal strain; dimensionless; 0 to 0.5
-□ Dim. formula for all moduli? → [ML⁻¹T⁻²] (same as stress/pressure)
-```
+> [!tip] Before answering any Mechanical Properties problem, run through this list
+>
+> - **Which modulus?** → Tensile/Compressive → $Y$; Shearing → $G$; Hydraulic → $B$
+> - **Young's modulus formula?** → $Y = FL/(A\Delta L)$; units = Pa; strain is dimensionless.
+> - **Beam sag formula?** → $\delta = Wl^3/(4bd^3Y)$; identify which variable to increase.
+> - **Modulus for fluids?** → **ONLY** bulk modulus $B$; neither $Y$ nor $G$ applies to fluids.
+> - **Hooke's law valid?** → Only in the **linear region O to A** on the stress-strain curve.
+> - **More elastic = ?** → Larger $Y$; steel is MORE elastic than rubber (not less!).
+> - **Stress a vector?** → **NO** — stress is not a vector quantity.
+> - **Tension in hanging wire?** → $F$ (the load below that cross-section), **NOT $2F$**.
+> - **G vs Y?** → $G \approx Y/3$ for most materials; $G < Y$ always.
+> - **Gases vs solids compressibility?** → Gases $\approx 10^6$ times more compressible than solids.
+> - **Yield point vs proportional limit?** → Proportional limit (A) ends linearity; yield point B ends recovery. $B \geq A$ always.
+> - **Fracture vs UTS?** → D = Ultimate Tensile Strength (max stress point); E = Fracture.
+> - **Brittle vs ductile?** → Brittle: D and E **close**; Ductile: D and E **far apart**.
+> - **Elastomers?** → Large elastic region; do NOT obey Hooke's law; no defined plastic region.
+> - **Elastic PE?** → $u = \tfrac{1}{2}\sigma\varepsilon$ per unit volume; total = $\tfrac{1}{2}F\cdot\Delta L$.
+> - **Mountain max height?** → $h\rho g \leq$ elastic limit of rock $\Rightarrow h \approx 10$ km.
+> - **I-beam shape reason?** → Depth $d$ resists bending ($\delta \propto d^{-3}$); flanges prevent buckling.
+> - **Poisson's ratio?** → Lateral strain / longitudinal strain; dimensionless; range $-1$ to $0.5$.
+> - **Dim. formula for all elastic moduli?** → $[\text{ML}^{-1}\text{T}^{-2}]$ (same as stress and pressure).
 
 ---
 
 ## 📌 Common Formula Errors to Avoid
 
 | Wrong Formula | Correct Formula | Situation |
-|---|---|---|
-| Y = ΔL/L ÷ F/A | Y = **(F/A) ÷ (ΔL/L)** | Stress over strain (NOT strain over stress) |
-| u = σε | u = **½** σε | Elastic PE per unit vol — don't forget the ½ |
-| B = p/(ΔV/V) | B = **−**p/(ΔV/V) | Negative sign needed; pressure ↑ → volume ↓ |
-| G = Y | G **≈ Y/3** | Shear modulus is roughly one-third of Y |
-| Total PE = F × ΔL | Total PE = **½** F × ΔL | Same as spring; work done against linearly increasing force |
-| δ ∝ 1/d | δ ∝ **1/d³** | Sag depends on cube of depth, not linearly |
-| Shear stress: fluids | Shear stress: **SOLIDS ONLY** | Fluids cannot sustain shear |
+|:---|:---|:---|
+| $Y = (\Delta L/L) \div (F/A)$ | $Y = \mathbf{(F/A) \div (\Delta L/L)}$ | Stress over strain — NOT the reciprocal |
+| $u = \sigma\varepsilon$ | $u = \mathbf{\frac{1}{2}}\sigma\varepsilon$ | Elastic PE per unit volume — never drop the $\frac{1}{2}$ |
+| $B = p/(\Delta V/V)$ | $B = \mathbf{-}p/(\Delta V/V)$ | Negative sign essential; pressure up → volume **down** |
+| $G = Y$ | $G \approx \mathbf{Y/3}$ | Shear modulus is roughly one-third of Young's modulus |
+| Total PE $= F \times \Delta L$ | Total PE $= \mathbf{\frac{1}{2}} F \times \Delta L$ | Same $\frac{1}{2}$ factor as for a spring ($\frac{1}{2}kx^2$) |
+| $\delta \propto 1/d$ | $\delta \propto \mathbf{1/d^3}$ | Sag depends on **cube** of depth, not linearly |
+| Shearing stress applies to all matter | Shearing stress: **SOLIDS ONLY** | Fluids cannot sustain shearing stress |
+| Elastic limit = Proportional limit | They are **different** points on the curve | Proportional limit (A) $\leq$ elastic limit (B) |
 
 ---
 

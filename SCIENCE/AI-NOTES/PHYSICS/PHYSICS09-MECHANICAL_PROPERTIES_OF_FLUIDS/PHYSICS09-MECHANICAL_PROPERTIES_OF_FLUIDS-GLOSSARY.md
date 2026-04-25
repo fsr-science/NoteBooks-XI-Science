@@ -4,321 +4,289 @@
 
 ---
 
-> All terms arranged **alphabetically** with precise scientific definitions, dimensional formulae where applicable, and exam relevance tags.
+> [!note] All terms arranged **alphabetically** with precise scientific definitions, dimensional formulae where applicable, and exam relevance tags.
 
 ---
 
 ## A
 
-**Absolute Pressure**
-The **total pressure** at a point in a fluid, measured from absolute zero (perfect vacuum):
+**Absolute Pressure** The **total pressure** at a point in a fluid, measured from absolute zero (perfect vacuum):
 
 $$P = P_a + \rho g h$$
 
-Not to be confused with gauge pressure, which is the excess over atmospheric pressure. Absolute pressure is always positive. SI unit: Pa. *(All levels — critical)*
+Not to be confused with gauge pressure, which is the excess over atmospheric pressure. Absolute pressure is always positive and cannot be zero (unless in a perfect vacuum). SI unit: Pa. _(All levels — critical)_
 
-**Angle of Contact (θ)**
-The angle between the **tangent to the liquid surface** at the point of contact and the **solid surface**, measured **inside the liquid**. Determines whether a liquid wets a solid:
-- θ < 90° (acute) → wetting liquid (water-glass)
-- θ > 90° (obtuse) → non-wetting liquid (mercury-glass)
+**Angle of Contact (θ)** The angle between the **tangent to the liquid surface** at the point of contact and the **solid surface**, measured **inside the liquid**. Determines whether a liquid wets a solid:
 
-Equilibrium condition: $S_{la}\cos\theta + S_{sl} = S_{sa}$
+- θ < 90° (acute) → wetting liquid (e.g., water-glass)
+- θ > 90° (obtuse) → non-wetting liquid (e.g., mercury-glass)
 
-Named quantities: Sla = liquid-air, Ssl = solid-liquid, Ssa = solid-air surface tension. *(All levels — critical)*
+Equilibrium condition at the three-phase line: $S_{la}\cos\theta + S_{sl} = S_{sa}$
 
-**Archimedes' Principle**
-When a body is fully or partially submerged in a fluid, it experiences an upward **buoyant force** equal to the weight of the fluid displaced. Though not the primary focus of this chapter, it is implicitly used in terminal velocity derivation (σVg = buoyant force). *(All levels)*
+Named interfacial tensions: $S_{la}$ = liquid-air, $S_{sl}$ = solid-liquid, $S_{sa}$ = solid-air. _(All levels — critical)_
 
-**Atmospheric Pressure (Pₐ)**
-The pressure exerted by the atmosphere at any point, equal to the weight of the air column of unit cross-section extending from that point to the top of the atmosphere. At sea level: **Pₐ ≈ 1.013 × 10⁵ Pa = 1 atm = 760 mm Hg**. Measured using a mercury barometer. *(All levels — critical)*
+**Archimedes' Principle** When a body is fully or partially submerged in a fluid, it experiences an upward **buoyant force** equal to the weight of fluid displaced: Buoyant force = σVg (σ = fluid density, V = submerged volume). Implicitly used in the terminal velocity derivation where σVg is the upward buoyant force acting on the falling sphere. _(All levels)_
+
+**Atmospheric Pressure (Pₐ)** The pressure exerted by the atmosphere at any point, equal to the weight of the air column of unit cross-section extending from that point to the top of the atmosphere. At sea level: **Pₐ ≈ 1.013 × 10⁵ Pa = 1 atm = 760 mm Hg**. Measured using a mercury barometer (Torricelli's device). _(All levels — critical)_
 
 ---
 
 ## B
 
-**Bar**
-A unit of pressure: **1 bar = 10⁵ Pa** (slightly less than 1 atm). Used in meteorology. 1 millibar = 100 Pa. *(Board/NEET)*
+**Bar** A unit of pressure: **1 bar = 10⁵ Pa** (slightly less than 1 atm). Used in meteorology. 1 millibar = 100 Pa. _(Board/NEET)_
 
-**Barometer**
-A device invented by Torricelli (1643) for measuring atmospheric pressure. A glass tube filled with mercury is inverted into a trough of mercury; the height h of the mercury column gives Pₐ = ρgh ≈ 76 cm at sea level. Mercury barometers are more practical than water ones because mercury is 13.6 times denser (water column ≈ 10.34 m, impractically tall). *(All levels)*
+**Barometer** A device invented by Torricelli (1643) for measuring atmospheric pressure. A long glass tube filled with mercury is inverted into a mercury trough; the height h of the mercury column gives Pₐ = ρgh ≈ 76 cm at sea level. Mercury is used because it is 13.6× denser than water (water column would need to be ~10.34 m — impractically tall). _(All levels)_
 
-**Bernoulli's Equation**
-An expression of **energy conservation** for steady, non-viscous, incompressible fluid flow along a streamline:
+**Bernoulli's Equation** An expression of **energy conservation** for steady, non-viscous, incompressible fluid flow along a streamline (derived by Daniel Bernoulli, 1738):
 
 $$P + \frac{1}{2}\rho v^2 + \rho g h = \text{constant}$$
 
-where P = pressure energy per unit volume, ½ρv² = kinetic energy per unit volume, ρgh = gravitational potential energy per unit volume. Derived by Daniel Bernoulli in 1738. Applies strictly to ideal (non-viscous, incompressible) fluids in steady flow. *(All levels — critical)*
+where P = pressure energy per unit volume, ½ρv² = kinetic energy per unit volume, ρgh = gravitational PE per unit volume. Strictly valid only for ideal (non-viscous, incompressible) fluids in steady flow. _(All levels — critical)_
 
-**Buoyant Force**
-See **Archimedes' Principle**. Equal to the weight of fluid displaced by the submerged body = σVg (σ = fluid density, V = volume submerged). Acts upward. Important in terminal velocity formula. *(All levels)*
+**Buoyant Force** See **Archimedes' Principle**. Equal to the weight of fluid displaced = σVg (σ = fluid density, V = volume submerged). Acts vertically upward. Appears in terminal velocity formula: $\frac{4}{3}\pi a^3\sigma g$ is the buoyant force on a falling sphere. _(All levels)_
 
 ---
 
 ## C
 
-**Capillarity / Capillary Rise**
-The phenomenon by which a liquid rises (or is depressed) in a narrow tube due to surface tension. The rise height:
+**Capillarity / Capillary Rise** The phenomenon by which a liquid rises (or is depressed) in a narrow tube due to surface tension. The equilibrium height:
 
 $$h = \frac{2S\cos\theta}{\rho g a}$$
 
-where a = tube radius, θ = angle of contact. h ∝ 1/a — thinner tube → greater rise. The word **capilla** means hair in Latin. Responsible for water rising in plants, wicking in cloth, and oil rising in wicks. *(All levels — critical)*
+where a = tube radius, θ = angle of contact. $h \propto 1/a$ — thinner tube → greater rise. The word **capilla** means hair in Latin. Responsible for water rising in plants, wicking in cloth, oil rising up a wick. If θ > 90° (e.g., mercury-glass): h < 0 → capillary **depression**. _(All levels — critical)_
 
-**Coefficient of Viscosity (η)**
-The proportionality constant between shearing stress and the rate of shear strain in a viscous fluid:
+**Coefficient of Viscosity (η)** The proportionality constant relating shearing stress to the rate of shear strain in a viscous fluid:
 
 $$\eta = \frac{F/A}{v/l} = \frac{F \cdot l}{v \cdot A}$$
 
-SI unit: **Pa·s = N s m⁻² = poiseuille (Pl)**. Dimensional formula: **[ML⁻¹T⁻¹]**. For liquids: η decreases with temperature; for gases: η increases with temperature. *(All levels — critical)*
+SI unit: **Pa·s = N s m⁻² = poiseuille (Pl)**. Dimensional formula: **[ML⁻¹T⁻¹]**. For liquids: η decreases with temperature; for gases: η increases with temperature. _(All levels — critical)_
 
-**Continuity, Equation of**
-For incompressible fluid in steady flow through a pipe:
+**Compressibility** A measure of how easily a fluid's volume changes with pressure. Liquids have very low compressibility (treated as incompressible for most purposes); gases have high compressibility. Not to be confused with the bulk modulus compressibility k = 1/B from Chapter 8 — here, the term is used qualitatively. _(All levels)_
+
+**Continuity, Equation of** For incompressible fluid in steady flow through a pipe:
 
 $$A_1 v_1 = A_2 v_2 \quad \Rightarrow \quad Av = \text{constant}$$
 
-This is conservation of **mass** (since ρ is constant, constant Av = constant volume flow rate). **Not** the same as Bernoulli's equation. Where the cross-section is narrower, velocity is greater, and vice versa. *(All levels — critical)*
+This is conservation of **mass** (since ρ is constant, constant Av = constant volume flow rate). **Not** the same as Bernoulli's equation. Where the cross-section is narrower, velocity is greater, and vice versa. The product Av is the **volume flux** (m³ s⁻¹). _(All levels — critical)_
 
-**Critical Speed**
-The maximum speed of flow at which the flow remains laminar (streamline). Above this speed, the flow transitions to **turbulent** flow (disordered, chaotic). Related to the **Reynolds number** (beyond the scope of this chapter). *(NEET/JEE)*
+**Critical Speed** The maximum speed of flow at which flow remains laminar (streamline). Above this speed, flow transitions to **turbulent** (disordered, chaotic). Related to the Reynolds number (beyond the scope of this chapter). _(NEET/JEE)_
 
 ---
 
 ## D
 
-**Density (ρ)**
-Mass per unit volume: ρ = m/V. SI unit: kg m⁻³. Dimensional formula: **[ML⁻³]**. Liquids are nearly incompressible → essentially constant density. Gases: density varies significantly with pressure and temperature. Density of water at 4°C = 1000 kg m⁻³. *(All levels — critical)*
+**Density (ρ)** Mass per unit volume: ρ = m/V. SI unit: **kg m⁻³**. Dimensional formula: **[ML⁻³]**. Liquids are nearly incompressible → essentially constant density. Gases: density varies significantly with pressure and temperature. Density of water at 4°C = 1000 kg m⁻³. _(All levels — critical)_
 
-**Dynamic Lift**
-The **upward force** on a body moving through a fluid, arising from the **pressure difference** between the two sides due to velocity difference (Bernoulli's principle). Examples: aerofoil/wing lift (faster flow on top → lower P → net upward force), Magnus effect on spinning balls. *(All levels — critical)*
+**Dynamic Lift** The **force** on a body moving through a fluid, arising from **pressure difference** between the two sides due to velocity difference (Bernoulli's principle). Examples: aerofoil/wing lift (faster flow on top → lower P → net upward force), Magnus effect on spinning balls (cricket, tennis, golf). _(All levels — critical)_
 
 ---
 
 ## E
 
-**Efflux**
-The outflow of fluid from a container through an opening or hole. The speed of efflux is given by **Torricelli's Law**: v = √(2gh) for an open tank with a hole at depth h below the surface. *(All levels)*
+**Efflux** The outflow of fluid from a container through an opening or hole. The speed of efflux from an open tank is given by **Torricelli's Law**: $v = \sqrt{2gh}$ for a hole at depth h below the surface. _(All levels)_
 
-**Equation of Continuity**
-See **Continuity, Equation of.** *(All levels — critical)*
+**Equation of Continuity** See **Continuity, Equation of**.
 
 ---
 
 ## F
 
-**Fluid**
-Any substance that can **flow** under an applied force — includes both liquids and gases. Fluids have no definite shape of their own (they take the shape of the container). The key defining property: **fluids cannot sustain shearing stress** — they deform continuously (flow) under even a tiny tangential force. *(All levels — critical)*
+**Fluid** Any substance that can flow — includes both **liquids** and **gases**. Fluids have no definite shape of their own (they take the shape of their container). The key distinguishing property: fluids offer very little resistance to **shearing stress** (about 10⁶ times less than solids) and flow rather than deform elastically under a shear force. _(All levels — critical)_
 
-**Fluid Dynamics**
-The study of **fluids in motion**. Includes streamline flow, turbulent flow, Bernoulli's principle, viscosity effects, etc. *(All levels)*
+**Flow Rate (Volume Flux)** The volume of fluid passing a cross-section per unit time: Q = Av (m³ s⁻¹). Remains constant throughout a pipe in steady incompressible flow (from the equation of continuity). _(All levels)_
 
 ---
 
 ## G
 
-**Gauge Pressure**
-The **excess pressure** above atmospheric pressure at a point in a fluid:
+**Gauge Pressure** The **excess** of actual pressure over atmospheric pressure at a point in a fluid:
 
 $$P_g = P - P_a = \rho g h$$
 
-This is what most pressure-measuring instruments (tyre gauge, blood pressure monitor) actually measure. Always positive for submerged points. Gauge pressure can be negative only if P < Pₐ (e.g., vacuum systems). *(All levels — critical)*
+Many practical instruments (tyre gauges, blood pressure gauges/sphygmomanometers) measure gauge pressure, not absolute pressure. Gauge pressure can be positive (pressure above atmospheric) or zero (at the free surface). _(All levels — critical)_
 
 ---
 
 ## H
 
-**Hydraulic Brakes**
-Braking systems in automobiles based on Pascal's law. The foot pedal compresses a small master piston → pressure transmitted through brake oil → acts on larger pistons at all four wheels equally → equal retarding force applied at all wheels. *(All levels)*
+**Hydraulic Brakes** A braking system in automobiles working on Pascal's law. A small force on the pedal is transmitted as pressure through brake fluid to larger pistons at all four wheels simultaneously — providing equal, amplified braking force at all wheels. _(All levels)_
 
-**Hydraulic Lift / Press**
-A device that uses Pascal's law to amplify force. Small force F₁ applied over area A₁ creates pressure P = F₁/A₁ transmitted to large area A₂, producing force F₂ = PA₂ = F₁(A₂/A₁). Mechanical advantage = A₂/A₁. The distance moved is inversely amplified: d₂ = d₁(A₁/A₂). Work done is conserved. *(All levels — critical)*
+**Hydraulic Lift** A machine working on Pascal's law. A small force F₁ on a small piston (area A₁) creates pressure P = F₁/A₁, which is transmitted undiminished to a large piston (area A₂), creating a large force F₂ = PA₂ = F₁(A₂/A₁). Mechanical advantage = A₂/A₁. Used to lift cars, trucks. _(All levels — critical)_
 
-**Hydrostatic Paradox**
-The observation that the **pressure at the bottom of a connected set of vessels of different shapes is the same**, even though the vessels contain different amounts of liquid. This is because pressure depends only on depth h, not on the shape or volume of the container. *(All levels — critical)*
+**Hydraulic Stress** See Chapter 8 Glossary. Relevant here because submerged objects in fluids are subjected to hydraulic (bulk) stress, used in terminal velocity derivation to find buoyant force. _(Board/NEET)_
 
-**Hydrostatics**
-The study of fluids **at rest** — including pressure variation with depth, Pascal's law, Archimedes' principle, and the forces on submerged surfaces. *(All levels)*
+**Hydrostatic Paradox** The phenomenon that the liquid level in connected vessels of different shapes is the **same**, even though they hold different volumes of liquid. This follows from the fact that liquid pressure depends only on the **vertical height**, not on the shape or cross-section of the container. _(All levels)_
 
 ---
 
 ## L
 
-**Laminar Flow**
-See **Streamline Flow**. Fluid flows in smooth, parallel layers; each layer does not cross another. Velocity is highest along the axis of a pipe and zero at the walls. *(All levels)*
+**Laminar Flow** A flow in which fluid layers slide smoothly over each other, without mixing, with all streamlines parallel. Velocity of the fluid layer along the axis of a tube is maximum and decreases to zero at the walls. Opposite of turbulent flow. Also called **streamline flow**. Occurs below the critical speed. _(All levels)_
 
 ---
 
 ## M
 
-**Magnus Effect**
-The **lateral force** on a spinning body moving through a fluid, caused by the asymmetric pressure distribution due to the interaction of spin-induced and translational flows. A spinning ball drags air with it: on one side, the spin adds to the translational flow (faster airflow, lower pressure); on the other side, it opposes (slower, higher pressure). The resulting pressure difference pushes the ball sideways. Applications: deviation of spinning cricket, tennis, golf, or baseball. *(All levels)*
+**Magnus Effect** The **dynamic lift** generated on a spinning body (ball) moving through air. The spin drags air, creating higher air velocity (and therefore lower pressure) on one side and lower velocity (higher pressure) on the other. The resulting pressure difference creates a net force perpendicular to the direction of motion, causing the ball to deviate from its parabolic path. Explains the behaviour of spinning cricket balls, tennis balls, and golf balls. _(All levels — critical)_
 
-**Manometer (Open Tube)**
-A U-tube device for measuring **gauge pressure** of a system. One arm is open to atmosphere; the other is connected to the system. The height difference h of the manometer fluid gives: P − Pₐ = ρgh. Can use water (low ΔP) or mercury (large ΔP). *(All levels)*
+**Manometer (Open Tube)** A U-tube instrument for measuring gauge pressure. One end is open to atmosphere; the other is connected to the system under measurement. Gauge pressure = ρgh, where h is the height difference between the two arms. _(All levels)_
 
-**Meniscus**
-The curved surface of a liquid inside a narrow tube or container. Concave meniscus (e.g., water in glass): angle of contact is acute → liquid wets the glass. Convex meniscus (e.g., mercury in glass): angle of contact is obtuse → liquid doesn't wet. The meniscus shape determines whether capillary rise or depression occurs. *(All levels)*
+**Meniscus** The curved surface of a liquid in a narrow tube or container, formed due to surface tension. The meniscus is **concave** for wetting liquids (water in glass, θ acute) and **convex** for non-wetting liquids (mercury in glass, θ obtuse). The curvature of the meniscus determines the sign (rise or depression) of capillary action. _(All levels)_
 
 ---
 
 ## P
 
-**Pascal (Pa)**
-The SI unit of pressure, named after Blaise Pascal (1623–1662). 1 Pa = 1 N m⁻². *(All levels — critical)*
+**Pascal (Pa)** The SI unit of pressure: 1 Pa = 1 N m⁻². Named after French scientist Blaise Pascal (1623–1662) who pioneered the study of fluid pressure. Dimensional formula: **[ML⁻¹T⁻²]**. _(All levels — critical)_
 
-**Pascal's Law**
-Three related statements about pressure in fluids at rest:
-1. Pressure is the same in all directions at a given point.
-2. Pressure is the same at all points at the same horizontal level.
-3. Pressure applied to an enclosed fluid is transmitted undiminished and equally in all directions.
+**Pascal's Law** Three forms:
 
-Form (3) is the basis of hydraulic machines. *(All levels — critical)*
+1. Pressure in a fluid at rest is the same **in all directions** at any given point.
+2. Pressure is the same at all points at the **same horizontal level** in a fluid at rest.
+3. External pressure applied to an enclosed fluid is **transmitted undiminished in all directions** throughout the fluid.
 
-**Poiseuille (Pl)**
-The SI unit of coefficient of viscosity. 1 Pl = 1 Pa·s = 1 N s m⁻². Named after Jean Louis Marie Poiseuille (1797–1869), who studied flow of blood through capillaries. *(NEET/JEE)*
+Forms 1 and 2 confirm that pressure is a scalar (no preferred direction). Form 3 is the basis of hydraulic machines. _(All levels — critical)_
 
-**Pressure**
-The **normal force per unit area** exerted by a fluid on a surface:
+**Poiseuille (Pl)** The SI unit of dynamic viscosity, named after Jean Louis Marie Poiseuille (1797–1869). 1 Pl = 1 Pa·s = 1 N s m⁻². Dimensional formula: **[ML⁻¹T⁻¹]**. _(All levels)_
+
+**Pressure** The **normal force per unit area** exerted by a fluid on a surface:
 
 $$P = \frac{F}{A}$$
 
-Pressure is a **scalar** — it acts equally in all directions at any point in a fluid. SI unit: Pa = N m⁻². Dimensional formula: **[ML⁻¹T⁻²]**. *(All levels — critical)*
+Pressure is a **scalar quantity** (not a vector — the force in the numerator is the normal component only; pressure acts equally in all directions at a point). SI unit: Pa = N m⁻². Dimensional formula: **[ML⁻¹T⁻²]**. Named after Blaise Pascal. _(All levels — critical)_
+
+**Pressure, Variation with Depth** For a fluid of density ρ at rest:
+
+$$P = P_a + \rho g h$$
+
+where h is the depth below the open surface. Pressure increases linearly with depth; depends on h, ρ, g only — **NOT** on the shape or cross-sectional area of the container. _(All levels — critical)_
 
 ---
 
 ## R
 
-**Relative Density (Specific Gravity)**
-The ratio of the density of a substance to the density of water at 4°C. **Dimensionless** positive scalar. For example, relative density of mercury = 13.6 (mercury is 13.6 times as dense as water). *(All levels)*
+**Relative Density (Specific Gravity)** The ratio of the density of a substance to the density of water at 4°C. A dimensionless, positive scalar. For example, relative density of mercury = 13.6 → density of mercury = 13.6 × 10³ kg m⁻³. _(All levels)_
 
 ---
 
 ## S
 
-**Steady Flow (Streamline Flow)**
-A flow in which **at any given point, the velocity of each fluid particle remains constant in time**. Different points can have different velocities, but at any one fixed point, every particle has the same velocity. In steady flow, streamlines are fixed in space. Also called **laminar flow** when the layers slide over each other in an orderly manner. *(All levels — critical)*
+**Specific Gravity** See **Relative Density**. _(All levels)_
 
-**Stokes' Law**
-The law giving the **viscous drag force** on a small sphere of radius a moving at speed v through a fluid of viscosity η:
+**Stokes' Law** The viscous drag force on a small sphere of radius a moving with velocity v through a fluid of coefficient of viscosity η:
 
 $$F = 6\pi\eta a v$$
 
-Derived by Sir George Stokes (1819–1903). Applies at low speeds (laminar flow around the sphere). The force is proportional to v (not v² as in turbulent drag). Used to derive terminal velocity. *(All levels — critical)*
+Enunciated by Sir George G. Stokes (1819–1903). The force is proportional to velocity (not v²) — this is the regime of **laminar flow** around the sphere (Stokes flow). Used to derive terminal velocity. _(All levels — critical)_
 
-**Streamline**
-A curve in a flowing fluid such that the tangent at every point is in the **direction of the fluid velocity** at that point. No two streamlines can cross in steady flow (crossing would imply two velocities at one point). Closely spaced streamlines = high velocity; widely spaced = low velocity. *(All levels — critical)*
+**Streamline** A curve in the fluid whose tangent at any point is in the direction of the fluid velocity at that point. In steady flow, streamlines form a fixed map of the flow — they do not change with time. No two streamlines can cross (crossing would imply two velocities at one point, contradicting steady flow). _(All levels — critical)_
 
-**Surface Energy**
-The **extra energy per unit area** associated with a liquid surface (or interface between two media), arising because surface molecules have fewer neighbours and hence higher potential energy than interior molecules. Surface tension S = surface energy per unit area. Creating more surface requires work = S × ΔA. *(All levels — critical)*
+**Streamline Flow** See **Laminar Flow**. _(All levels)_
 
-**Surface Tension (S)**
-The **force per unit length** (or equivalently, **surface energy per unit area**) acting in the plane of a liquid surface, tending to minimise the surface area:
+**Surface Energy** The extra energy possessed by molecules at the surface of a liquid compared to molecules in the interior. Arises because surface molecules are attracted only from below (half-environment), not from above, so they have higher potential energy. A liquid tends to minimise its surface area (= minimise surface energy). The surface energy per unit area equals the surface tension S (in J m⁻² = N m⁻¹). _(All levels — critical)_
 
-$$S = \frac{F}{2l} \quad \text{(for a film with two surfaces; l = length of boundary)}$$
+**Surface Tension (S)** A measure of the extra energy at liquid surfaces, defined as:
 
-SI unit: N m⁻¹. Dimensional formula: **[MT⁻²]**. S decreases with temperature (like liquid viscosity). Only applies to liquids (gases have no free surfaces). Applications: soap bubbles, capillary rise, droplet formation. *(All levels — critical)*
+$$S = \frac{F}{2l} = \frac{\text{surface energy}}{\text{surface area}}$$
+
+(the factor 2l accounts for two surfaces of a liquid film). Equivalently, the **force per unit length** exerted by the liquid surface on a line in the plane of the surface. SI unit: **N m⁻¹**. Dimensional formula: **[MT⁻²]**. Scalar. Surface tension decreases with temperature. Applies only to liquids (gases have no free surfaces). _(All levels — critical)_
 
 ---
 
 ## T
 
-**Terminal Velocity (vt)**
-The **constant velocity** reached by a falling object when the net downward force (gravity minus buoyancy) exactly equals the upward viscous drag:
+**Terminal Velocity (vₜ)** The constant velocity attained by a body falling through a viscous fluid when the net downward gravitational force equals the sum of the upward viscous drag and buoyant force:
 
 $$v_t = \frac{2a^2(\rho - \sigma)g}{9\eta}$$
 
-where a = sphere radius, ρ = sphere density, σ = fluid density, η = viscosity. At terminal velocity: acceleration = 0, net force = 0. vt ∝ a² (critical — small increase in size causes large increase in terminal velocity). *(All levels — critical)*
+where ρ = density of sphere, σ = density of fluid, a = radius, η = viscosity. $v_t \propto a^2$; $v_t \propto 1/\eta$. _(All levels — critical)_
 
-**Torr**
-A unit of pressure equal to 1 mm of mercury (Hg) column:
-**1 torr = 133 Pa**. Named after Evangelista Torricelli (1608–1647). Used in medicine (blood pressure measurements) and physiology. *(Board/NEET)*
+**Torr** A unit of pressure: **1 torr = 133 Pa = 1 mm of Hg**. Named after Evangelista Torricelli (1608–1647), inventor of the mercury barometer. Used in medicine and physiology (blood pressure measured in mm Hg = torr). _(All levels)_
 
-**Torricelli's Law**
-The law giving the **speed of efflux** from a small hole at depth h below the free surface of an open tank:
+**Torricelli's Law** The speed of efflux from a small hole in an open tank at depth h below the liquid surface:
 
 $$v = \sqrt{2gh}$$
 
-This is a special case of Bernoulli's principle. The efflux speed is identical to the speed of a body in free fall from height h. Discovered by Evangelista Torricelli. For a pressurised tank (P > Pₐ), the efflux speed also depends on the overpressure (important for rocket propulsion). *(All levels — critical)*
+Discovered by Torricelli. Identical in form to the speed of a body falling freely through height h ($v = \sqrt{2gh}$). A special case of Bernoulli's equation. _(All levels — critical)_
 
-**Turbulent Flow**
-A **disordered, chaotic** fluid flow occurring when the speed exceeds the critical speed. Characterised by eddies, whirlpools, and irregular velocity fluctuations. Bernoulli's equation **does not** apply to turbulent flow. Examples: fast-flowing river rapids, jet of water at high speed. *(All levels)*
+**Turbulent Flow** A flow in which fluid particles move in disordered, chaotic paths — velocity and pressure fluctuate irregularly with time. Occurs when the fluid speed exceeds the **critical speed**. White water rapids in rivers are a visible example. Bernoulli's equation does not apply to turbulent flow. _(All levels)_
 
 ---
 
 ## V
 
-**Viscosity**
-The property of a fluid that describes its **internal resistance to flow** — the analogue of friction in fluids. Arises because different layers of fluid move at different velocities and exert frictional forces on each other. Quantified by the **coefficient of viscosity η**. A "thick" fluid (honey, glycerine) has high viscosity; a "thin" fluid (water, air) has low viscosity. *(All levels — critical)*
+**Viscosity** The property of a fluid by which it resists relative motion between its layers — the fluid analogue of solid friction. Arises because adjacent fluid layers at different velocities exert drag forces on each other. Characterised by the **coefficient of viscosity η**. For liquids: η decreases with temperature; for gases: η increases with temperature. _(All levels — critical)_
 
-**Volume Flux (Q)**
-The **volume of fluid flowing per second** past a cross-section: Q = Av. SI unit: m³ s⁻¹. By the equation of continuity, volume flux is constant throughout a pipe in steady incompressible flow. *(All levels)*
+**Volume Flux (Flow Rate)** The volume of fluid crossing a cross-section per unit time: Q = Av (m³ s⁻¹). Constant throughout a pipe in steady incompressible flow (equation of continuity). _(All levels)_
 
 ---
 
 ## W
 
-**Wetting**
-A liquid is said to **wet** a solid surface when the angle of contact is acute (θ < 90°) — the liquid spreads over the surface. If θ > 90° (obtuse), the liquid does not wet the surface and forms droplets. Wetting depends on the relative magnitudes of Ssl, Ssa, and Sla. Soaps and detergents reduce the angle of contact (reduce Ssl) → enhanced wetting → better cleaning. Waterproofing agents increase θ → liquid beads off. *(All levels)*
+**Wetting** A liquid is said to wet a solid when the **angle of contact θ < 90°** (acute). The liquid spreads over the solid surface rather than beading up. Examples: water on glass, water on plastic. Non-wetting occurs when θ > 90° (mercury on glass). Detergents lower θ; waterproofing agents raise θ. _(All levels)_
 
 ---
 
 ## Key Symbols Summary
 
-| Symbol | Quantity | Unit |
-|---|---|---|
-| P | Pressure (absolute) | Pa = N m⁻² |
-| Pₐ | Atmospheric pressure | Pa |
-| Pg | Gauge pressure | Pa |
-| ρ | Density of fluid/material | kg m⁻³ |
-| σ | Density of surrounding fluid (in terminal velocity) | kg m⁻³ |
-| g | Acceleration due to gravity | m s⁻² |
-| h | Depth / height of fluid column | m |
-| A | Cross-sectional area | m² |
-| v | Fluid velocity | m s⁻¹ |
-| Q | Volume flux = Av | m³ s⁻¹ |
-| η | Coefficient of viscosity | Pa·s = Pl |
-| a | Radius of sphere (Stokes' law, capillary) | m |
-| vt | Terminal velocity | m s⁻¹ |
-| S | Surface tension | N m⁻¹ |
-| θ | Angle of contact | degrees or radians |
-| r | Radius of drop/bubble | m |
+|Symbol|Quantity|Unit|
+|:--|:--|:--|
+|P|Pressure (absolute)|Pa = N m⁻²|
+|Pₐ|Atmospheric pressure|Pa|
+|Pg|Gauge pressure|Pa|
+|ρ|Density of fluid/sphere|kg m⁻³|
+|σ|Density of surrounding fluid|kg m⁻³|
+|η|Coefficient of viscosity|Pa·s = Pl|
+|S|Surface tension|N m⁻¹|
+|θ|Angle of contact|degrees / rad|
+|h|Depth / capillary rise|m|
+|a|Radius of sphere / tube|m|
+|v|Fluid velocity|m s⁻¹|
+|vₜ|Terminal velocity|m s⁻¹|
+|Q|Volume flux (flow rate)|m³ s⁻¹|
+|A|Cross-sectional area|m²|
+|F|Force|N|
+|r|Radius of drop/bubble|m|
 
 ---
 
 ## Key Numerical Constants
 
-| Quantity | Value |
-|---|---|
-| Atmospheric pressure (1 atm) | 1.013 × 10⁵ Pa |
-| Height of mercury in barometer at sea level | 76 cm = 760 mm Hg |
-| 1 torr | 133 Pa |
-| 1 bar | 10⁵ Pa |
-| Density of water at 4°C | 1.0 × 10³ kg m⁻³ |
-| Density of mercury | 13.6 × 10³ kg m⁻³ |
-| Density of air at STP | 1.29 kg m⁻³ |
-| Density of sea water | 1.03 × 10³ kg m⁻³ |
-| Surface tension of water (20°C) | 0.0727 N m⁻¹ |
-| Surface tension of mercury (20°C) | 0.4355 N m⁻¹ |
-| Viscosity of water (20°C) | 1.0 × 10⁻³ Pa·s |
-| Viscosity of blood (37°C) | 2.7 × 10⁻³ Pa·s |
-| Viscosity of glycerine (20°C) | 0.83 Pa·s |
-| Viscosity of air (0°C) | 1.7 × 10⁻⁵ Pa·s |
+|Quantity|Value|
+|:--|:--|
+|Atmospheric pressure at sea level|1.013 × 10⁵ Pa = 1 atm = 760 mm Hg|
+|1 bar|10⁵ Pa|
+|1 torr|133 Pa|
+|Density of water at 4°C|1.00 × 10³ kg m⁻³|
+|Density of sea water|1.03 × 10³ kg m⁻³|
+|Density of mercury|13.6 × 10³ kg m⁻³|
+|Density of air at STP|1.29 kg m⁻³|
+|Density of blood (whole)|1.06 × 10³ kg m⁻³|
+|Surface tension of water (20°C)|0.0727 N m⁻¹|
+|Surface tension of mercury (20°C)|0.4355 N m⁻¹|
+|Surface tension of ethanol (20°C)|0.0227 N m⁻¹|
+|Viscosity of water (20°C)|1.0 mPl|
+|Viscosity of blood (37°C)|2.7 mPl|
+|Viscosity of glycerine (20°C)|830 mPl|
+|Viscosity of air (0°C)|0.017 mPl|
 
 ---
 
 ## Common Misconceptions Clarified
 
-| Misconception | Correct Understanding |
-|---|---|
-| Pressure is a vector quantity | Pressure is a **scalar** — it acts equally in all directions; no single direction can be assigned to it. |
-| Fluids can sustain shear stress | Fluids **cannot** sustain shear stress — they flow instead. This is the defining difference between fluids and solids. |
-| Gauge pressure and absolute pressure are the same | **Gauge pressure = Absolute − Atmospheric**. Absolute = Pₐ + ρgh; Gauge = ρgh. |
-| The continuity equation and Bernoulli's equation say the same thing | They are **completely different**: Continuity = mass conservation; Bernoulli = energy conservation. Both are needed together. |
-| Viscosity of all substances increases with temperature | Viscosity of **liquids decreases** with T; viscosity of **gases increases** with T — **opposite** behaviour. |
-| Soap bubbles and liquid drops have the same excess pressure formula | Soap bubble: **4S/r** (two surfaces); Liquid drop or air bubble in liquid: **2S/r** (one surface). |
-| Capillary rise depends on the length of the tube | Rise height h = 2Scosθ/(ρga) — **independent of tube length**. But if the tube is too short to allow full rise, the meniscus angle adjusts instead. |
-| Bernoulli's equation applies to all fluid flows | Bernoulli applies **only** to non-viscous, incompressible, steady (streamline) flows. Turbulent flows, viscous flows, and compressible flows are not covered. |
-| Terminal velocity is reached instantly | Terminal velocity is reached **asymptotically** — the sphere accelerates and the drag increases until they balance. It takes some time (and some distance fallen) to reach vt. |
-| Higher viscosity always means slower flow | Viscosity resists flow, but the driving pressure also matters. A high pressure gradient can drive a very viscous fluid rapidly. Viscosity determines the energy lost to friction per unit volume per unit time. |
+|Misconception|Correct Understanding|
+|:--|:--|
+|Pressure depends on the shape or area of the container|Pressure at a point depends only on the **vertical height h**, not on container shape or cross-section.|
+|Pressure is a vector quantity|Pressure is a **scalar** — it acts equally in all directions at a point; no direction can be assigned to it.|
+|Gauge pressure and absolute pressure are the same|Gauge pressure = P − Pₐ (excess over atmospheric); absolute pressure = Pₐ + ρgh (total from zero).|
+|Equation of continuity and Bernoulli's equation are the same|They are **different laws**: A₁v₁ = A₂v₂ is mass conservation; Bernoulli is energy conservation.|
+|Higher fluid velocity always means lower pressure|This is true only **at the same height** (horizontal pipe). In a general pipe with height changes, both P and ρgh can vary.|
+|Viscosity of all fluids decreases with temperature|For **liquids**, η decreases with T. For **gases**, η **increases** with T (opposite behaviour).|
+|A liquid drop and a soap bubble have the same excess pressure formula|A liquid drop (1 surface): ΔP = 2S/r. A soap bubble (2 surfaces): ΔP = **4S/r**. Different by a factor of 2.|
+|Capillary rise increases with tube radius|Capillary rise h ∝ **1/a** — thinner tube → **greater** rise, not less.|
+|Mercury rises in a capillary tube|Mercury has an **obtuse** angle of contact with glass → capillary **depression** (mercury falls, not rises).|
+|Bernoulli's equation applies to all fluid flows|Bernoulli applies **only** to non-viscous, incompressible, **steady** (streamline) flow along a single streamline. Not valid for turbulent or viscous flow.|
 
 ---
 
-*Total terms defined: 40+ | End of Glossary — Physics Ch. 9*
+_Total terms defined: 40+ | End of Glossary — Physics Ch. 9_

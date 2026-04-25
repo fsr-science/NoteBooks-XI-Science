@@ -4,6 +4,7 @@
 
 ---
 
+> [!note]
 > All terms arranged **alphabetically** with precise scientific definitions, dimensional formulae where applicable, and exam relevance tags.
 
 ---
@@ -212,7 +213,7 @@ SI unit: Pa. Dimensional formula: **[ML⁻¹T⁻²]**. Applies to **solids only*
 ## Key Symbols Summary
 
 | Symbol | Quantity | Unit |
-|---|---|---|
+|:---|:---|:---|
 | σ | Stress (general) | Pa = N m⁻² |
 | σy | Yield strength | Pa |
 | σu | Ultimate tensile strength | Pa |
@@ -237,7 +238,7 @@ SI unit: Pa. Dimensional formula: **[ML⁻¹T⁻²]**. Applies to **solids only*
 ## Key Numerical Constants
 
 | Quantity | Value |
-|---|---|
+|:---|:---|
 | Young's modulus — Steel | 200 × 10⁹ Pa = 200 GPa |
 | Young's modulus — Copper | 110 × 10⁹ Pa = 110 GPa |
 | Young's modulus — Aluminium | 70 × 10⁹ Pa = 70 GPa |
@@ -259,7 +260,7 @@ SI unit: Pa. Dimensional formula: **[ML⁻¹T⁻²]**. Applies to **solids only*
 ## Common Misconceptions Clarified
 
 | Misconception | Correct Understanding |
-|---|---|
+|:---|:---|
 | A material that stretches more is more elastic | In physics, a material with LARGER Young's modulus is more elastic — it resists deformation more. Steel is more elastic than rubber. |
 | Stress is a vector quantity | Stress is a scalar with directional context (surface orientation); it cannot be assigned a single direction like force. |
 | Hooke's law is valid for all elastic materials | Hooke's law is valid only in the LINEAR (proportional) region. Even elastic materials (A to B region) may not obey it. Elastomers are elastic but never obey Hooke's law. |

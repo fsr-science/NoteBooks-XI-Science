@@ -6,6 +6,7 @@
 
 ---
 
+> [!note] Level Tags and Format
 > **Level Tags:** 🟢 Board | 🟡 NEET | 🔴 JEE
 >
 > **Answers** provided at the end of each section.
@@ -156,13 +157,13 @@
 ### ✅ A1 ANSWERS
 
 | Q | Ans | Brief Reason |
-|---|---|---|
+|:---|:---|:---|
 | 1 | (c) | Definition of elasticity |
 | 2 | (b) | Stress = F/A; F in N, A in m² → N m⁻² = Pa |
 | 3 | (c) | Shearing strain = relative lateral displacement/height = Δx/L |
-| 4 | (d) | Tensile, compressive, shearing, and hydraulic are the four types of stress; friction is not a stress type |
+| 4 | (d) | Tensile, compressive, shearing, and hydraulic are the four types; friction is not a stress type |
 | 5 | (b) | Hooke's law: stress ∝ strain → stress = k × strain |
-| 6 | (d) | Bulk modulus relates pressure (hydraulic stress) to volume change; applies to all states of matter |
+| 6 | (d) | Bulk modulus relates pressure to volume change; applies to all states of matter |
 | 7 | (b) | Y has same dimensions as stress = [ML⁻¹T⁻²] (strain is dimensionless) |
 | 8 | (c) | Definition of elastomer — large elastic region; non-linear; rubber/aorta are examples |
 | 9 | (c) | Steel: Y = 200 GPa >> Copper (110 GPa) > Wood (13 GPa) >> Rubber (very low) |
@@ -171,7 +172,7 @@
 | 12 | (b) | k = 1/B (compressibility) = fractional change in volume per unit pressure |
 | 13 | (b) | Tight interatomic coupling in solids → large bulk modulus → less compressible |
 | 14 | (b) | Strain = change in dimension / original dimension (dimensionless ratio) |
-| 15 | (c) | Fluids cannot sustain shear stress — they flow; only solids can have shear modulus G |
+| 15 | (c) | Fluids cannot sustain shear stress — they flow; only solids have shear modulus G |
 
 ---
 
@@ -251,7 +252,7 @@
 
 ---
 
-**Q24.** A sag formula for a beam of length l, breadth b, depth d, and Young's modulus Y loaded at the centre by W gives sag δ = Wl³/(4bd³Y). If depth d is doubled while keeping all else constant, the sag becomes:
+**Q24.** A sag formula for a beam gives $\delta = Wl^3/(4bd^3Y)$. If depth d is doubled while keeping all else constant, the sag becomes:
 
 * (a) δ/2
 * (b) δ/4
@@ -260,7 +261,7 @@
 
 ---
 
-**Q25.** A steel wire of length 4.7 m and cross-sectional area 3.0 × 10⁻⁵ m² stretches by the same amount as a copper wire of length 3.5 m and cross-sectional area 4.0 × 10⁻⁵ m² under a given load. The ratio Y_steel : Y_copper is approximately:
+**Q25.** A steel wire of length 4.7 m and cross-sectional area 3.0 × 10⁻⁵ m² stretches by the same amount as a copper wire of length 3.5 m and cross-sectional area 4.0 × 10⁻⁵ m² under a given load. The ratio $Y_\text{steel} : Y_\text{copper}$ is approximately:
 
 * (a) 1.36 : 1
 * (b) 1.80 : 1
@@ -317,7 +318,7 @@
 ### ✅ A2 ANSWERS
 
 | Q | Ans | Brief Reason |
-|---|---|---|
+|:---|:---|:---|
 | 16 | (a) | Y = FL/(AΔL) → ΔL = FL/(AY) |
 | 17 | (c) | ΔL = FL/(AY); Wire 1: ΔL₁ = FL/(2AY); Wire 2: ΔL₂ = F(2L)/(AY) = 2FL/(AY); Ratio = 1:4 |
 | 18 | (b) | Region A to B: material still elastic (recovers) but non-linear (Hooke's law invalid) |
@@ -327,8 +328,8 @@
 | 22 | (c) | Gases ≈ 10⁶ times more compressible than solids — standard fact |
 | 23 | (a) | ν = (Δd/d)/(ΔL/L) = 0.3; ΔL/L = 1%; Δd/d = 0.3 × 1% = 0.3% |
 | 24 | (c) | δ ∝ 1/d³; d → 2d: δ → δ/(2³) = δ/8 |
-| 25 | (b) | Same ΔL and F: Y_s/Y_c = (L_s/A_s)/(L_c/A_c) = (4.7/3×10⁻⁵)/(3.5/4×10⁻⁵) = (4.7×4)/(3.5×3) = 18.8/10.5 ≈ 1.79 ≈ 1.80 |
-| 26 | (b) | A single wire of 3 cm radius would be rigid; braiding provides flexibility while maintaining tensile strength |
+| 25 | (b) | Same ΔL and F: $Y_s/Y_c = (L_s/A_s)/(L_c/A_c) = (4.7/3 \times 10^{-5})/(3.5/4 \times 10^{-5}) \approx 1.80$ |
+| 26 | (b) | A single wire of r ≈ 3 cm would be rigid; braiding provides flexibility while maintaining tensile strength |
 | 27 | (a) | p = B × (ΔV/V) = 2.2×10⁹ × 0.01 = 2.2×10⁷ Pa |
 | 28 | (c) | Slope = Δstress/Δstrain = Young's modulus Y |
 | 29 | (c) | Standard result: for most metals G ≈ Y/3; G applies to solids only |
@@ -394,12 +395,12 @@
 
 ---
 
-**Q37.** A composite wire consists of a steel wire of length L_s and Young's modulus Y_s, and an aluminium wire of length L_a and Young's modulus Y_a, connected in series (end-to-end). When a force F is applied, which of the following is the same for both wires?
+**Q37.** A composite wire consists of a steel wire and an aluminium wire connected in series (end-to-end). When a force F is applied, which of the following is the same for both wires?
 
 * (a) Stress
 * (b) Strain
 * (c) Elongation
-* (d) Stress AND Strain
+* (d) Force (tension)
 
 ---
 
@@ -433,17 +434,17 @@
 ### ✅ A3 ANSWERS
 
 | Q | Ans | Brief Reason |
-|---|---|---|
-| 31 | (a) | ΔL = FL/(AY); since A is the same (given), L is the same, material (Y) is the same, and F is the same → elongation is identical |
-| 32 | (a) | Thermal strain = αΔT; since ends are fixed, this strain is prevented → stress = Y × αΔT; Force = YAαΔT |
-| 33 | (c) | For ν = 0.5: fractional change in volume = longitudinal strain × (1 − 2ν) = 0; volume is unchanged — this is the incompressible limit |
-| 34 | (a) | Stress at distance x from free end: σ(x) = ρgx; energy density u = σ²/2Y = ρ²g²x²/2Y; Total U = ∫₀ᴸ (ρ²g²x²/2Y)·A dx = ρ²g²AL³/(6Y) |
+|:---|:---|:---|
+| 31 | (a) | ΔL = FL/(AY); since A, L, Y, F are all the same → elongation is identical regardless of cross-section shape |
+| 32 | (a) | Thermal strain = αΔT; fixed ends prevent contraction → stress = Y × αΔT; Force = YAαΔT |
+| 33 | (c) | For ν = 0.5: ΔV/V = ε(1 − 2ν) = 0; volume is unchanged — the incompressible limit |
+| 34 | (a) | Stress at distance x from free end: σ(x) = ρgx; $u = \sigma^2/2Y$; $U = \int_0^L \frac{\rho^2g^2x^2}{2Y}A\,dx = \rho^2g^2AL^3/(6Y)$ |
 | 35 | (a) | Standard elastic constant relation: Y = 3B(1 − 2ν) |
-| 36 | (a) | V = πr²L; ΔV/V = ΔL/L + 2Δr/r = ε − 2νε = ε(1−2ν); ΔV = πr₀²L₀·ε(1−2ν) = πr₀²ΔL(1−2ν) |
-| 37 | (a) | Wires in series: same tension (force F) → same stress = F/A only if same area; but stress = F/A where A may differ. Actually: same FORCE (not stress) for series connection. For same area: same stress. Generally: **same force** and hence same stress if same cross-section |
-| 38 | (d) | Energy = ½F·Δl (work done = ½ × force × extension, as force varies linearly); also = ½ × (F/A) × (Δl/L) × (A×L) = YA(Δl)²/(2L) — both expressions are correct |
-| 39 | (b) | Y = 2G(1 + ν) → 200 = 2×80×(1+ν) → 1+ν = 200/160 = 1.25 → ν = 0.25 |
-| 40 | (a) | Longitudinal strain = F/(AY) = F/(πR²Y); Lateral strain = ν × longitudinal strain; ΔR/R = ν × F/(πR²Y); ΔR = νFR/(πR²Y) |
+| 36 | (a) | ΔV/V = ε(1 − 2ν); ε = ΔL/L₀; ΔV = πr₀²L₀ × (ΔL/L₀)(1−2ν) = πr₀²ΔL(1−2ν) |
+| 37 | (d) | Wires in series share the same tension (force F) — stress and strain differ since cross-sections and Y values differ |
+| 38 | (d) | Energy = ½F·Δl (force increases linearly from 0 to F); also = YA(Δl)²/(2L) — both expressions are equivalent |
+| 39 | (b) | Y = 2G(1 + ν) → 200 = 2×80×(1+ν) → 1+ν = 1.25 → ν = 0.25 |
+| 40 | (a) | Longitudinal strain = F/(πR²Y); lateral strain = ν × longitudinal; ΔR = R × ν × F/(πR²Y) = νFR/(πR²Y) |
 
 ---
 
@@ -484,7 +485,7 @@
 
 **Q45.** 🟡
 **Assertion (A):** A steel wire and a rubber string of the same initial length are given equal extensions. The steel wire stores more elastic potential energy.
-**Reason (R):** The elastic PE per unit volume is ½σε; since Y_steel >> Y_rubber, stress in steel is much greater for the same strain.
+**Reason (R):** The elastic PE per unit volume is ½σε; since $Y_\text{steel} \gg Y_\text{rubber}$, stress in steel is much greater for the same strain.
 
 ---
 
@@ -502,36 +503,36 @@
 
 **Q48.** 🟡
 **Assertion (A):** In a hanging wire stretched by a load W, the tension at any cross-section equals W.
-**Reason (R):** The force at any cross-section is determined by the weight of the material below that section (or the load, whichever applies).
+**Reason (R):** The force at any cross-section is determined by the weight of material below that section.
 
 ---
 
 **Q49.** 🔴
-**Assertion (A):** For a given wire, the spring constant k = YA/L, where Y is Young's modulus, A is cross-sectional area, and L is length.
-**Reason (R):** From Hooke's law, F = YA(ΔL)/L. Comparing with F = kx, we get k = YA/L.
+**Assertion (A):** For a given wire, the spring constant $k = YA/L$, where Y is Young's modulus, A is cross-sectional area, and L is length.
+**Reason (R):** From Hooke's law, $F = YA(\Delta L)/L$. Comparing with $F = kx$, we get $k = YA/L$.
 
 ---
 
 **Q50.** 🔴
 **Assertion (A):** When a wire is stretched, the density of the wire decreases.
-**Reason (R):** When a wire is stretched, its volume increases because the increase in length is greater than the decrease in cross-section, resulting in a net volume increase (assuming ν < 0.5).
+**Reason (R):** When a wire is stretched, its volume increases because the increase in length is greater than the decrease in cross-section (assuming ν < 0.5).
 
 ---
 
 ### ✅ Assertion–Reason Answers
 
 | Q | Ans | Explanation |
-|---|---|---|
-| 41 | (a) | Both true and connected: large Y means large stress per unit strain → material is "more elastic" in the physics sense — resists deformation more |
-| 42 | (a) | Both true and connected: fluids cannot sustain shearing stress because they cannot maintain shape → they flow → no shear modulus G |
-| 43 | (a) | Both true and correctly connected: tight atomic coupling in solids → large B; very weak coupling in gases → small B |
-| 44 | (a) | Both true; R correctly explains A: I-shape optimises δ = Wl³/4bd³Y by maximising d while flanges prevent buckling of deep thin sections |
-| 45 | (a) | Both true: total elastic PE = ½Y·ε²·Volume; for same ε and volume, material with larger Y stores more PE. Steel Y >> rubber Y |
-| 46 | (a) | Both true and connected: ν = (Δd/d)/(ΔL/L) = [dimensionless]/[dimensionless] = dimensionless |
-| 47 | (d) | A is false; R is also false. Proportional limit (A) and elastic limit (B) are DIFFERENT points; Hooke's law is valid only up to A, not throughout A→B |
-| 48 | (a) | Both true and connected: wire only loaded by W at the bottom end; tension at any interior cross-section = W (ignoring wire's own weight) |
-| 49 | (a) | Both true; R is the correct derivation of A; this analogy with spring is valid and important |
-| 50 | (a) | Both true and connected: ΔV/V = ε(1 − 2ν); for ν < 0.5, this is positive → volume increases → density = mass/volume decreases |
+|:---|:---|:---|
+| 41 | (a) | Both true and connected: large Y → more force per unit strain → "more elastic" in physics sense |
+| 42 | (a) | Both true and connected: fluids flow under shear → cannot maintain shape → no shear modulus G |
+| 43 | (a) | Both true and correctly connected: tight coupling in solids → large B; weak coupling in gases → small B |
+| 44 | (a) | Both true; R correctly explains A: I-shape maximises d (δ ∝ d⁻³) while flanges prevent buckling |
+| 45 | (a) | Both true: total elastic PE = ½Yε²V; for same ε and V, larger Y → more PE stored |
+| 46 | (a) | Both true and connected: ν = (Δd/d)/(ΔL/L) = dimensionless/dimensionless = dimensionless |
+| 47 | (d) | A is false, R is also false: proportional limit (A) and elastic limit (B) are different; Hooke's law fails beyond A |
+| 48 | (a) | Both true and connected: tension at interior cross-section = weight below = W (for massless wire) |
+| 49 | (a) | Both true; R is the correct derivation; wire behaves like a spring with k = YA/L |
+| 50 | (a) | Both true and connected: ΔV/V = ε(1−2ν) > 0 for ν < 0.5 → volume increases → density decreases |
 
 ---
 
@@ -544,7 +545,7 @@
 - **O:** Origin (no stress, no strain)
 - **A:** Proportional limit (linear region ends)
 - **B:** Yield point / Elastic limit
-- **C:** A point between B and D (under plastic region)
+- **C:** A point between B and D (in plastic region)
 - **D:** Ultimate tensile strength
 - **E:** Fracture point
 
@@ -598,12 +599,12 @@
 **Case 1 Answers:**
 
 | Q | Ans | Working |
-|---|---|---|
+|:---|:---|:---|
 | 51 | (c) | In the linear region, slope = Δstress/Δstrain = Y (Young's modulus) |
-| 52 | (c) | C is in the plastic region (beyond elastic limit B); deformation is partly irreversible → permanent set retained |
+| 52 | (c) | C is in the plastic region (beyond elastic limit B); partial irreversible → permanent set retained |
 | 53 | (b) | Region A to B: material still elastic (returns to original shape) but not linear (Hooke's law violated) |
 | 54 | (c) | Brittle materials fracture soon after ultimate tensile strength — D and E are close |
-| 55 | (b) | Elastomers: very large elastic (recoverable) region; non-linear stress-strain; no defined plastic region |
+| 55 | (b) | Elastomers: very large elastic (recoverable) region; non-linear; no defined plastic region |
 
 ---
 
@@ -612,7 +613,7 @@
 **Passage:** An engineer must select a material for three different applications:
 
 | Application | Requirement |
-|---|---|
+|:---|:---|
 | **P** — Rope for lifting heavy loads | High tensile strength; must not permanently deform; flexible |
 | **Q** — Component submerged in deep ocean | Must resist volume compression; uniform stress from all sides |
 | **R** — Floor beam in a building | Must resist bending under load; high stiffness |
@@ -620,7 +621,7 @@
 Available materials:
 
 | Material | Y (GPa) | G (GPa) | B (GPa) | Yield Strength (MPa) |
-|---|---|---|---|---|
+|:---|:---:|:---:|:---:|:---:|
 | Steel | 200 | 84 | 160 | 250 |
 | Copper | 110 | 42 | 140 | 200 |
 | Aluminium | 70 | 25 | 72 | 95 |
@@ -664,7 +665,7 @@ Available materials:
 
 ---
 
-**Q60.** 🟡 If a 10 cm cube of steel is placed at the bottom of the Mariana Trench (depth ~11 km; pressure ≈ 1.1 × 10⁸ Pa), the decrease in its volume is: (B_steel = 160 GPa)
+**Q60.** 🟡 If a 10 cm cube of steel is placed at the bottom of the Mariana Trench (depth ~11 km; pressure ≈ 1.1 × 10⁸ Pa), the decrease in its volume is: ($B_\text{steel} = 160$ GPa)
 
 * (a) 6.9 × 10⁻⁸ m³
 * (b) 6.9 × 10⁻¹⁰ m³
@@ -676,22 +677,18 @@ Available materials:
 **Case 2 Answers:**
 
 | Q | Ans | Working |
-|---|---|---|
-| 56 | (c) | Rope under tension → longitudinal stress → need Y and yield strength (not permanently deform) |
-| 57 | (c) | Uniform pressure from all sides → hydraulic stress → relevant modulus is B (bulk modulus) |
+|:---|:---|:---|
+| 56 | (c) | Rope under tension → longitudinal stress → need Y and yield strength |
+| 57 | (c) | Uniform pressure from all sides → hydraulic stress → relevant modulus is B |
 | 58 | (c) | Sag δ = Wl³/(4bd³Y); minimum δ → maximum Y → Steel (Y = 200 GPa, largest) |
-| 59 | (b) | A single wire of r ≈ 3 cm would be practically rigid. Braiding gives flexibility while the aggregate cross-section maintains tensile strength. |
-| 60 | (b) | V = (0.1)³ = 10⁻³ m³; ΔV = pV/B = 1.1×10⁸ × 10⁻³ / (160×10⁹) = 1.1×10⁵/1.6×10¹¹ = 6.875×10⁻⁷ m³... recalculate: = 1.1×10⁸ × 10⁻³/(1.6×10¹¹) = 1.1×10⁵/1.6×10¹¹ = 6.9×10⁻⁷ m³ → **(c)** 6.9×10⁻⁷ m³ |
-
-*(Note: Q60 correct answer is (c); the answer table entry should read (c).)*
+| 59 | (b) | A single wire of r ≈ 3 cm would be practically rigid; braiding gives flexibility |
+| 60 | (c) | V = (0.1)³ = 10⁻³ m³; ΔV = pV/B = 1.1×10⁸ × 10⁻³ / (1.6×10¹¹) = **6.9 × 10⁻⁷ m³** |
 
 ---
 
 ## Case 3 — Bone and Biological Materials 🟢🟡
 
-**Passage:** Bone is a composite biological material with a Young's modulus of Y = 9.4 GPa (under compression). In a human pyramid circus act, performers support a combined mass of 280 kg above the base performer. The base performer has mass 60 kg. Each thighbone (femur) has length 0.5 m and effective radius 2.0 cm.
-
-(g = 9.8 m s⁻²; π ≈ 3.14)
+**Passage:** Bone is a composite biological material with $Y = 9.4$ GPa (under compression). In a human pyramid act, the base performer supports a combined mass of 280 kg above. The base performer has mass 60 kg. Each thighbone (femur) has length 0.5 m and effective radius 2.0 cm. ($g = 9.8$ m s⁻²; $\pi \approx 3.14$)
 
 ---
 
@@ -743,18 +740,18 @@ Available materials:
 **Case 3 Answers:**
 
 | Q | Ans | Working |
-|---|---|---|
-| 61 | (c) | Mass supported = 280 − 60 = 220 kg (the base performer's own body weight is not supported by others) |
+|:---|:---|:---|
+| 61 | (c) | Mass supported = 280 − 60 = 220 kg (base performer's own weight is not supported by others) |
 | 62 | (b) | Weight = 220 × 9.8 = 2156 N; per thighbone = 2156/2 = 1078 N |
-| 63 | (a) | A = πr² = 3.14 × (0.02)² = 3.14 × 4×10⁻⁴ = 1.256 × 10⁻³ ≈ 1.26 × 10⁻³ m² |
-| 64 | (c) | ΔL = FL/(YA) = (1078 × 0.5)/(9.4×10⁹ × 1.26×10⁻³) = 539/(1.184×10⁷) ≈ 4.55 × 10⁻⁵ m |
-| 65 | (c) | ΔL/L = 4.55×10⁻⁵/0.5 = 9.1×10⁻⁵ = 0.0091% (extremely small — bones are very stiff!) |
+| 63 | (a) | A = πr² = 3.14 × (0.02)² = 1.256 × 10⁻³ ≈ 1.26 × 10⁻³ m² |
+| 64 | (c) | ΔL = FL/(YA) = (1078 × 0.5)/(9.4×10⁹ × 1.26×10⁻³) ≈ 4.55 × 10⁻⁵ m |
+| 65 | (c) | ΔL/L = 4.55×10⁻⁵/0.5 = 9.1×10⁻⁵ = 0.0091% |
 
 ---
 
 ## Case 4 — Shear Deformation and Lead Slab 🟡🔴
 
-**Passage:** A square lead slab with side 50 cm and thickness 10 cm has its lower face fixed to the floor. A shearing force of F = 9.0 × 10⁴ N is applied to its upper narrow face, parallel to it. (G_lead = 5.6 × 10⁹ Pa)
+**Passage:** A square lead slab with side 50 cm and thickness 10 cm has its lower face fixed to the floor. A shearing force of $F = 9.0 \times 10^4$ N is applied to its upper narrow face, parallel to it. ($G_\text{lead} = 5.6 \times 10^9$ Pa)
 
 ---
 
@@ -794,7 +791,7 @@ Available materials:
 
 ---
 
-**Q70.** 🔴 If the same force is applied to a copper slab of the same dimensions (G_Cu = 42 GPa), by what factor does the displacement change compared to the lead slab?
+**Q70.** 🔴 If the same force is applied to a copper slab of the same dimensions ($G_\text{Cu} = 42$ GPa), by what factor does the displacement change compared to the lead slab?
 
 * (a) 1/7.5
 * (b) 7.5
@@ -806,8 +803,8 @@ Available materials:
 **Case 4 Answers:**
 
 | Q | Ans | Working |
-|---|---|---|
-| 66 | (a) | Shear force acts on the narrow face: 50 cm × 10 cm = 0.5 m × 0.1 m = 0.05 m² |
+|:---|:---|:---|
+| 66 | (a) | Shear force acts on narrow face: 50 cm × 10 cm = 0.5 m × 0.1 m = 0.05 m² |
 | 67 | (b) | Stress = F/A = 9.0×10⁴/0.05 = 1.8×10⁶ N m⁻² |
 | 68 | (a) | θ = stress/G = 1.8×10⁶/5.6×10⁹ = 3.21×10⁻⁴ ≈ 3.2 × 10⁻⁴ |
 | 69 | (b) | Δx = θ × L = 3.2×10⁻⁴ × 0.5 = 1.6 × 10⁻⁴ m |
@@ -819,148 +816,129 @@ Available materials:
 
 ---
 
-**Q71.** 🟢 A steel wire of length 4.7 m and cross-sectional area 3.0 × 10⁻⁵ m² is stretched by a force F. If Y_steel = 2.0 × 10¹¹ Pa and the elongation is 2.35 × 10⁻³ m, find the applied force F.
+**Q71.** 🟢 A steel wire of length 4.7 m and cross-sectional area $3.0 \times 10^{-5}$ m² is stretched by a force F. If $Y_\text{steel} = 2.0 \times 10^{11}$ Pa and the elongation is $2.35 \times 10^{-3}$ m, find the applied force F.
 
-**Answer:**
-
-$$F = \frac{Y \cdot A \cdot \Delta L}{L} = \frac{2.0 \times 10^{11} \times 3.0 \times 10^{-5} \times 2.35 \times 10^{-3}}{4.7}$$
-
-$$= \frac{2.0 \times 3.0 \times 2.35 \times 10^{11-5-3}}{4.7} = \frac{14.1 \times 10^3}{4.7} = \mathbf{3.0 \times 10^3 \text{ N} = 3 \text{ kN}}$$
-
----
-
-**Q72.** 🟢 An aluminium cube of edge 10 cm has one face fixed to a wall. A 100 kg mass is attached to the opposite face. G_Al = 25 GPa. Find the vertical deflection of this face.
-
-**Answer:**
-
-$$\text{Force } F = 100 \times 9.8 = 980 \text{ N}$$
-$$A = (0.1)^2 = 0.01 \text{ m}^2; \quad \text{Stress} = 980/0.01 = 9.8 \times 10^4 \text{ Pa}$$
-$$\text{Shearing strain } \theta = \frac{\text{Stress}}{G} = \frac{9.8 \times 10^4}{25 \times 10^9} = 3.92 \times 10^{-6}$$
-$$\Delta x = \theta \times L = 3.92 \times 10^{-6} \times 0.1 = \mathbf{3.92 \times 10^{-7} \text{ m} \approx 0.39 \ \mu\text{m}}$$
+> [!example] Solution
+> $$F = \frac{Y \cdot A \cdot \Delta L}{L} = \frac{2.0 \times 10^{11} \times 3.0 \times 10^{-5} \times 2.35 \times 10^{-3}}{4.7}$$
+>
+> $$= \frac{14.1 \times 10^3}{4.7} = \mathbf{3.0 \times 10^3 \text{ N} = 3 \text{ kN}}$$
 
 ---
 
-**Q73.** 🟢 The average depth of the Indian Ocean is 3000 m. Find the fractional compression ΔV/V of water at the bottom. (B_water = 2.2 × 10⁹ Pa; ρ_water = 1000 kg m⁻³; g = 10 m s⁻²)
+**Q72.** 🟢 An aluminium cube of edge 10 cm has one face fixed to a wall. A 100 kg mass is attached to the opposite face. $G_\text{Al} = 25$ GPa. Find the vertical deflection of this face.
 
-**Answer:**
-
-$$p = h\rho g = 3000 \times 1000 \times 10 = 3 \times 10^7 \text{ Pa}$$
-$$\frac{\Delta V}{V} = \frac{p}{B} = \frac{3 \times 10^7}{2.2 \times 10^9} = \mathbf{1.36 \times 10^{-2} = 1.36\%}$$
-
----
-
-**Q74.** 🟢 A steel cable of radius 1.5 cm supports a chairlift. If the maximum allowable stress is 10⁸ N m⁻², find the maximum load the cable can support.
-
-**Answer:**
-
-$$A = \pi r^2 = \pi \times (1.5 \times 10^{-2})^2 = \pi \times 2.25 \times 10^{-4} = 7.07 \times 10^{-4} \text{ m}^2$$
-$$F_{max} = \sigma_{max} \times A = 10^8 \times 7.07 \times 10^{-4} = \mathbf{7.07 \times 10^4 \text{ N} \approx 70.7 \text{ kN}}$$
+> [!example] Solution
+> $F = 100 \times 9.8 = 980$ N
+>
+> $A = (0.1)^2 = 0.01$ m²; Stress $= 980/0.01 = 9.8 \times 10^4$ Pa
+>
+> Shearing strain: $\theta = \dfrac{\text{Stress}}{G} = \dfrac{9.8 \times 10^4}{25 \times 10^9} = 3.92 \times 10^{-6}$
+>
+> $$\Delta x = \theta \times L = 3.92 \times 10^{-6} \times 0.1 = \mathbf{3.92 \times 10^{-7} \text{ m} \approx 0.39 \ \mu\text{m}}$$
 
 ---
 
-**Q75.** 🟡 A rigid bar of mass 15 kg is supported symmetrically by 3 wires, each 2.0 m long: copper wires at the two ends and an iron wire in the middle. If each wire has the same tension, find the ratio of diameter of copper to iron wire. (Y_copper = 1.1 × 10¹¹ Pa; Y_iron = 1.9 × 10¹¹ Pa)
+**Q73.** 🟢 The average depth of the Indian Ocean is 3000 m. Find the fractional compression $\Delta V/V$ of water at the bottom. ($B_\text{water} = 2.2 \times 10^9$ Pa; $\rho_\text{water} = 1000$ kg m⁻³; $g = 10$ m s⁻²)
 
-**Answer:**
-
-For the same tension T and same length L, elongation: ΔL = TL/(AY)
-
-For equal tensions and equal ΔL (since bar is rigid): A_Cu × Y_Cu = A_Fe × Y_Fe
-
-$$\frac{A_{Cu}}{A_{Fe}} = \frac{Y_{Fe}}{Y_{Cu}} = \frac{1.9 \times 10^{11}}{1.1 \times 10^{11}} = \frac{1.9}{1.1}$$
-
-$$\frac{\pi d_{Cu}^2/4}{\pi d_{Fe}^2/4} = \frac{d_{Cu}^2}{d_{Fe}^2} = \frac{1.9}{1.1}$$
-
-$$\frac{d_{Cu}}{d_{Fe}} = \sqrt{\frac{1.9}{1.1}} = \sqrt{1.727} \approx \mathbf{1.31}$$
+> [!example] Solution
+> $p = h\rho g = 3000 \times 1000 \times 10 = 3 \times 10^7$ Pa
+>
+> $$\frac{\Delta V}{V} = \frac{p}{B} = \frac{3 \times 10^7}{2.2 \times 10^9} = \mathbf{1.36 \times 10^{-2} = 1.36\%}$$
 
 ---
 
-**Q76.** 🟡 A piece of copper with rectangular cross-section 15.2 mm × 19.1 mm is pulled with force 44,500 N. Calculate the resulting strain. (Y_copper = 1.1 × 10¹¹ Pa)
+**Q74.** 🟢 A steel cable of radius 1.5 cm supports a chairlift. If the maximum allowable stress is $10^8$ N m⁻², find the maximum load the cable can support.
 
-**Answer:**
-
-$$A = 15.2 \times 10^{-3} \times 19.1 \times 10^{-3} = 2.9 \times 10^{-4} \text{ m}^2$$
-$$\text{Stress} = F/A = 44500/(2.9 \times 10^{-4}) = 1.534 \times 10^8 \text{ Pa}$$
-$$\text{Strain} = \text{Stress}/Y = \frac{1.534 \times 10^8}{1.1 \times 10^{11}} = \mathbf{1.394 \times 10^{-3} \approx 1.4 \times 10^{-3}}$$
-
----
-
-**Q77.** 🟡 A 14.5 kg mass is fastened to the end of a steel wire (unstretched length 1.0 m, cross-sectional area 0.065 cm²). It is whirled in a vertical circle with angular velocity 2 rev/s. Find the elongation of the wire when the mass is at the lowest point. (Y_steel = 2.0 × 10¹¹ Pa; g = 9.8 m s⁻²)
-
-**Answer:**
-
-At the lowest point, net upward force = centripetal force + weight:
-
-$$F = m\omega^2 L + mg = m(\omega^2 L + g)$$
-
-ω = 2 rev/s = 2 × 2π = 4π rad/s; ω² = 16π² ≈ 157.9 rad² s⁻²
-
-$$F = 14.5 \times (157.9 \times 1.0 + 9.8) = 14.5 \times 167.7 = 2431.7 \text{ N}$$
-
-$$A = 0.065 \times 10^{-4} = 6.5 \times 10^{-6} \text{ m}^2$$
-
-$$\Delta L = \frac{FL}{YA} = \frac{2431.7 \times 1.0}{2.0 \times 10^{11} \times 6.5 \times 10^{-6}} = \frac{2431.7}{1.3 \times 10^6} = \mathbf{1.87 \times 10^{-3} \text{ m} \approx 1.87 \text{ mm}}$$
+> [!example] Solution
+> $A = \pi r^2 = \pi \times (1.5 \times 10^{-2})^2 = \pi \times 2.25 \times 10^{-4} = 7.07 \times 10^{-4}$ m²
+>
+> $$F_\text{max} = \sigma_\text{max} \times A = 10^8 \times 7.07 \times 10^{-4} = \mathbf{7.07 \times 10^4 \text{ N} \approx 70.7 \text{ kN}}$$
 
 ---
 
-**Q78.** 🟡 Four hollow cylindrical columns of mild steel (yield strength σy = 300 MPa) support a structure of mass 50,000 kg. Inner radius = 30 cm, outer radius = 60 cm. Find the compressional strain in each column. (Y_steel = 2.0 × 10¹¹ Pa; g = 9.8 m s⁻²)
+**Q75.** 🟡 A rigid bar of mass 15 kg is supported symmetrically by 3 wires, each 2.0 m long: copper wires at the two ends and an iron wire in the middle. If each wire has the same tension, find the ratio of diameter of copper to iron wire. ($Y_\text{Cu} = 1.1 \times 10^{11}$ Pa; $Y_\text{Fe} = 1.9 \times 10^{11}$ Pa)
 
-**Answer:**
-
-$$A = \pi(r_2^2 - r_1^2) = \pi(0.36 - 0.09) = 0.27\pi = 0.848 \text{ m}^2 \text{ per column}$$
-
-Load per column = $\frac{50000 \times 9.8}{4} = 122500 \text{ N}$
-
-$$\text{Stress} = \frac{F}{A} = \frac{122500}{0.848} = 1.445 \times 10^5 \text{ Pa}$$
-
-$$\text{Strain} = \frac{\text{Stress}}{Y} = \frac{1.445 \times 10^5}{2.0 \times 10^{11}} = \mathbf{7.22 \times 10^{-7}}$$
-
-(Stress ≪ yield strength of 300 MPa → safe design)
+> [!example] Solution
+> For equal tensions $T$ and equal length $L$, elongation $\Delta L = TL/(AY)$.
+>
+> For a rigid bar (equal elongation for all wires): $A_\text{Cu} \times Y_\text{Cu} = A_\text{Fe} \times Y_\text{Fe}$
+>
+> $$\frac{A_\text{Cu}}{A_\text{Fe}} = \frac{Y_\text{Fe}}{Y_\text{Cu}} = \frac{1.9}{1.1}$$
+>
+> $$\frac{d_\text{Cu}^2}{d_\text{Fe}^2} = \frac{1.9}{1.1} \quad \Rightarrow \quad \frac{d_\text{Cu}}{d_\text{Fe}} = \sqrt{\frac{1.9}{1.1}} = \sqrt{1.727} \approx \mathbf{1.31}$$
 
 ---
 
-**Q79.** 🔴 A wire of cross-section A, length L, and Young's modulus Y is fixed at both ends and cooled by temperature ΔT. Given coefficient of linear expansion α, find:
-(a) The thermal strain prevented
-(b) The stress developed
-(c) The tension in the wire
+**Q76.** 🟡 A piece of copper with rectangular cross-section 15.2 mm × 19.1 mm is pulled with force 44,500 N. Calculate the resulting strain. ($Y_\text{Cu} = 1.1 \times 10^{11}$ Pa)
 
-**Answer:**
-
-(a) **Thermal strain** that would occur if free: ε_thermal = αΔT
-
-Since ends are fixed, this strain is prevented (the wire is not allowed to contract):
-- **Prevented strain = αΔT**
-
-(b) **Stress developed** (tensile, as wire tries to contract but is held):
-$$\sigma = Y \times \varepsilon = Y \times \alpha\Delta T$$
-
-(c) **Tension (force)**:
-$$F = \sigma \times A = \mathbf{YA\alpha\Delta T}$$
+> [!example] Solution
+> $A = 15.2 \times 10^{-3} \times 19.1 \times 10^{-3} = 2.9 \times 10^{-4}$ m²
+>
+> Stress $= F/A = 44500/(2.9 \times 10^{-4}) = 1.534 \times 10^8$ Pa
+>
+> $$\text{Strain} = \frac{\text{Stress}}{Y} = \frac{1.534 \times 10^8}{1.1 \times 10^{11}} = \mathbf{1.39 \times 10^{-3} \approx 1.4 \times 10^{-3}}$$
 
 ---
 
-**Q80.** 🔴 A uniform rod of steel, length L = 2 m, cross-section A = 1 cm² = 10⁻⁴ m², and density ρ = 7860 kg m⁻³, hangs vertically. Calculate:
-(a) The stress at the midpoint of the rod
-(b) The total elongation of the rod under its own weight
-(c) The total elastic potential energy stored
-(Y_steel = 2.0 × 10¹¹ Pa; g = 9.8 m s⁻²)
+**Q77.** 🟡 A 14.5 kg mass is fastened to the end of a steel wire (unstretched length 1.0 m, cross-sectional area 0.065 cm²). It is whirled in a vertical circle with angular velocity 2 rev/s. Find the elongation of the wire at the lowest point. ($Y_\text{steel} = 2.0 \times 10^{11}$ Pa; $g = 9.8$ m s⁻²)
 
-**Answer:**
+> [!example] Solution
+> At the lowest point, net upward force = centripetal force + weight:
+>
+> $\omega = 2 \text{ rev/s} = 4\pi$ rad/s; $\omega^2 = 16\pi^2 \approx 157.9$ rad² s⁻²
+>
+> $F = m(\omega^2 L + g) = 14.5 \times (157.9 \times 1.0 + 9.8) = 14.5 \times 167.7 = 2431.7$ N
+>
+> $A = 0.065 \times 10^{-4} = 6.5 \times 10^{-6}$ m²
+>
+> $$\Delta L = \frac{FL}{YA} = \frac{2431.7 \times 1.0}{2.0 \times 10^{11} \times 6.5 \times 10^{-6}} = \frac{2431.7}{1.3 \times 10^6} = \mathbf{1.87 \times 10^{-3} \text{ m} \approx 1.87 \text{ mm}}$$
 
-Mass of rod = ρAL = 7860 × 10⁻⁴ × 2 = 1.572 kg; Weight W = 1.572 × 9.8 = 15.41 N
+---
 
-**(a)** Stress at midpoint = weight of lower half/A:
-$$\sigma = \frac{W/2}{A} = \frac{15.41/2}{10^{-4}} = \frac{7.7}{10^{-4}} = 7.7 \times 10^4 \text{ Pa}$$
+**Q78.** 🟡 Four hollow cylindrical columns of mild steel support a structure of mass 50,000 kg. Inner radius = 30 cm, outer radius = 60 cm. Find the compressional strain in each column. ($Y_\text{steel} = 2.0 \times 10^{11}$ Pa; $g = 9.8$ m s⁻²)
 
-**(b)** Total elongation (stress varies linearly from 0 at bottom to W/A at top):
-$$\Delta L_{total} = \int_0^L \frac{\rho g x}{Y} dx = \frac{\rho g L^2}{2Y} = \frac{7860 \times 9.8 \times 4}{2 \times 2.0 \times 10^{11}}$$
-$$= \frac{3.09 \times 10^5}{4.0 \times 10^{11}} = \mathbf{7.7 \times 10^{-7} \text{ m} \approx 0.77 \text{ μm}}$$
+> [!example] Solution
+> $A = \pi(r_2^2 - r_1^2) = \pi(0.36 - 0.09) = 0.27\pi = 0.848$ m² per column
+>
+> Load per column $= \dfrac{50000 \times 9.8}{4} = 122{,}500$ N
+>
+> Stress $= \dfrac{F}{A} = \dfrac{122500}{0.848} = 1.445 \times 10^5$ Pa
+>
+> $$\text{Strain} = \frac{\text{Stress}}{Y} = \frac{1.445 \times 10^5}{2.0 \times 10^{11}} = \mathbf{7.22 \times 10^{-7}}$$
+>
+> (Stress $\ll$ yield strength of 300 MPa → safe design)
 
-**(c)** Total elastic PE:
-$$U = \frac{1}{2} \times \text{Average stress} \times \text{Average strain} \times \text{Volume}$$
-$$= \frac{1}{2} \times \frac{W/2}{A} \times \frac{\Delta L_{total}/2}{L} \times AL = \frac{W \cdot \Delta L_{total}}{8}$$
-$$= \frac{15.41 \times 7.7 \times 10^{-7}}{8} = \mathbf{1.48 \times 10^{-6} \text{ J} \approx 1.5 \text{ μJ}}$$
+---
 
-*(Alternative: U = ρ²g²AL³/6Y = (7860)²×(9.8)²×10⁻⁴×8/(6×2×10¹¹) ≈ 1.48 × 10⁻⁶ J ✓)*
+**Q79.** 🔴 A wire of cross-section A, length L, and Young's modulus Y is fixed at both ends and cooled by temperature $\Delta T$. Given coefficient of linear expansion $\alpha$, find: (a) the thermal strain prevented, (b) the stress developed, (c) the tension in the wire.
+
+> [!example] Solution
+> **(a) Thermal strain** that would occur if wire were free to contract:
+> $$\varepsilon_\text{thermal} = \alpha\Delta T$$
+>
+> Since ends are fixed, this contraction is prevented. **Prevented strain** $= \alpha\Delta T$.
+>
+> **(b) Stress developed** (tensile, as wire tries to contract but is restrained):
+> $$\sigma = Y \times \varepsilon = Y\alpha\Delta T$$
+>
+> **(c) Tension (force) in the wire:**
+> $$F = \sigma \times A = \mathbf{YA\alpha\Delta T}$$
+
+---
+
+**Q80.** 🔴 A uniform rod of steel, length $L = 2$ m, cross-section $A = 1$ cm² $= 10^{-4}$ m², and density $\rho = 7860$ kg m⁻³, hangs vertically. Calculate: (a) the stress at the midpoint of the rod, (b) the total elongation under its own weight, (c) the total elastic potential energy stored. ($Y_\text{steel} = 2.0 \times 10^{11}$ Pa; $g = 9.8$ m s⁻²)
+
+> [!example] Solution
+> Mass of rod $= \rho AL = 7860 \times 10^{-4} \times 2 = 1.572$ kg; Weight $W = 1.572 \times 9.8 = 15.41$ N
+>
+> **(a)** Stress at midpoint = weight of lower half / A:
+> $$\sigma = \frac{W/2}{A} = \frac{7.705}{10^{-4}} = \mathbf{7.7 \times 10^4 \text{ Pa}}$$
+>
+> **(b)** Total elongation (stress varies linearly from 0 at free end to $W/A$ at top):
+> $$\Delta L_\text{total} = \frac{\rho g L^2}{2Y} = \frac{7860 \times 9.8 \times 4}{2 \times 2.0 \times 10^{11}} = \frac{3.09 \times 10^5}{4.0 \times 10^{11}} = \mathbf{7.7 \times 10^{-7} \text{ m} \approx 0.77 \text{ μm}}$$
+>
+> **(c)** Total elastic PE:
+> $$U = \frac{W \cdot \Delta L_\text{total}}{8} \times 4 = \frac{\rho^2 g^2 A L^3}{6Y} = \frac{(7860)^2 \times (9.8)^2 \times 10^{-4} \times 8}{6 \times 2 \times 10^{11}} \approx \mathbf{1.48 \times 10^{-6} \text{ J} \approx 1.5 \text{ μJ}}$$
 
 ---
 

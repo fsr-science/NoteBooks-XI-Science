@@ -63,15 +63,15 @@ flowchart TD
 
 ### 1.3 The Seven SI Base Units ⭐
 
-| Base Physical Quantity | SI Unit | Symbol | Defined Using |
-|:---|:---:|:---:|:---|
-| **Length** | metre | **m** | Speed of light in vacuum $c = 299{,}792{,}458 \text{ m s}^{-1}$ |
-| **Mass** | kilogram | **kg** | Planck constant $h = 6.62607015 \times 10^{-34} \text{ J·s}$ |
-| **Time** | second | **s** | Caesium-133 hyperfine transition frequency $= 9{,}192{,}631{,}770 \text{ Hz}$ |
-| **Electric current** | ampere | **A** | Elementary charge $e = 1.602176634 \times 10^{-19} \text{ C}$ |
-| **Thermodynamic temperature** | kelvin | **K** | Boltzmann constant $k = 1.380649 \times 10^{-23} \text{ J K}^{-1}$ |
-| **Amount of substance** | mole | **mol** | Avogadro constant $N_A = 6.02214076 \times 10^{23} \text{ mol}^{-1}$ |
-| **Luminous intensity** | candela | **cd** | Luminous efficacy of $540 \times 10^{12}$ Hz radiation $= 683 \text{ lm W}^{-1}$ |
+| Base Physical Quantity        | SI Unit  | Symbol  | Defined Using                                                                    |
+| :---------------------------- | :------: | :-----: | :------------------------------------------------------------------------------- |
+| **Length**                    |  metre   |  **m**  | Speed of light in vacuum $c = 299{,}792{,}458 \text{ m s}^{-1}$                  |
+| **Mass**                      | kilogram | **kg**  | Planck constant $h = 6.62607015 \times 10^{-34} \text{ J·s}$                     |
+| **Time**                      |  second  |  **s**  | Caesium-133 hyperfine transition frequency $= 9{,}192{,}631{,}770 \text{ Hz}$    |
+| **Electric current**          |  ampere  |  **A**  | Elementary charge $e = 1.602176634 \times 10^{-19} \text{ C}$                    |
+| **Thermodynamic temperature** |  kelvin  |  **K**  | Boltzmann constant $k = 1.380649 \times 10^{-23} \text{ J K}^{-1}$               |
+| **Amount of substance**       |   mole   | **mol** | Avogadro constant $N_A = 6.02214076 \times 10^{23} \text{ mol}^{-1}$             |
+| **Luminous intensity**        | candela  | **cd**  | Luminous efficacy of $540 \times 10^{12}$ Hz radiation $= 683 \text{ lm W}^{-1}$ |
 
 > [!warning] Board Trap — Capitalisation Rules
 > Unit **names** are always lowercase (metre, kelvin, ampere). Unit **symbols** are capitalised **only** when named after a person:
