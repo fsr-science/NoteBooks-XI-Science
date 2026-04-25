@@ -1,69 +1,7 @@
 {
   "type": "folder",
-  "name": "NoteBooks-XI",
+  "name": "NoteBooks-XI-Science",
   "children": [
-    {
-      "type": "folder",
-      "name": "Commerce",
-      "children": [
-        {
-          "type": "folder",
-          "name": "AI Notes",
-          "children": [
-            {
-              "type": "folder",
-              "name": "Mathematics",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "Chapter 1 (Sets)",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "Maths Chapter 1 (Glossary).md",
-                      "path": "Commerce/AI Notes/Mathematics/Chapter 1 (Sets)/Maths Chapter 1 (Glossary).md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "Maths Chapter 1 (Notes).md",
-                      "path": "Commerce/AI Notes/Mathematics/Chapter 1 (Sets)/Maths Chapter 1 (Notes).md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "Maths Chapter 1 (Revision Mind Maps).md",
-                      "path": "Commerce/AI Notes/Mathematics/Chapter 1 (Sets)/Maths Chapter 1 (Revision Mind Maps).md"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "NCERT Books",
-          "children": [
-            {
-              "type": "folder",
-              "name": "Mathematics",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "Chapter 1 (Sets)",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "kemh101.pdf",
-                      "path": "Commerce/NCERT Books/Mathematics/Chapter 1 (Sets)/kemh101.pdf"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "type": "file",
       "name": "README.md",
@@ -2679,6 +2617,17 @@
                   "path": "SCIENCE/NCERT-PDF/PHYSICS/PHYSICS14-WAVES.pdf"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "REFERENCE-BOOKS",
+          "children": [
+            {
+              "type": "file",
+              "name": "CONCEPTS_OF_PHYSICS-I_HC_VERMA.pdf",
+              "path": "SCIENCE/REFERENCE-BOOKS/CONCEPTS_OF_PHYSICS-I_HC_VERMA.pdf"
             }
           ]
         }
