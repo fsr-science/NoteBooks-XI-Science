@@ -2,6 +2,7 @@ import os
 import json
 
 EXCLUDED_ROOT_FILES = {
+    "installer.html",
     "files.json",
     "fmtree.py",
     "index.html",
@@ -14,13 +15,17 @@ EXCLUDED_ROOT_FILES = {
     "obsidian-md.js",
     "obsidian-markdown-it.js",
     "fallback.html",
-    "autopush.sh"
+    "autopush.sh",
+    "conf.txt",
+    "vercel.json"
 }
 
 EXCLUDED_ROOT_DIRS = {
+    "bin",
     "community",
     "waiting-list",
-    "api"
+    "api",
+    "install"
 }
 
 def build_tree(path, rel_path=""):
