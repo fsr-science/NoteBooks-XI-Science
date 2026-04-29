@@ -637,7 +637,7 @@ async function fetchFileContent(path, filename, container) {
   // For private repos, Vercel serves all deployed files as public static assets at their
   // relative paths — no proxy needed. Only Office documents need /api/raw because the
   // Office Online viewer fetches from Microsoft's servers, not from the Vercel deployment.
-  const rawUrl = `${window.location.origin}/api/raw?path=${encodeURIComponent(path)}`;
+  const rawUrl = `https://notebooks-xi-science.vercel.app/api/raw?path=${encodeURIComponent(path)}`;
 
   try {
     if (/\.(png|jpe?g|gif|bmp|webp|svg)$/i.test(filename)) {
@@ -730,7 +730,7 @@ function hasVercelDismissCookie() {
 
 function goToVercel() {
   document.cookie = 'vercel_redirect_dismissed=1; max-age=31536000; path=/; SameSite=Lax';
-  window.location.href = 'https://ada-one-rho.vercel.app';
+  window.location.href = 'https://notebooks-xi-science.vercel.app';
 }
 
 function dismissVercelPopup() {
