@@ -3,11 +3,6 @@
   "name": "NoteBooks-XI-Science",
   "children": [
     {
-      "type": "file",
-      "name": "LICENSE",
-      "path": "LICENSE"
-    },
-    {
       "type": "folder",
       "name": "SCIENCE",
       "children": [
