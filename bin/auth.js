@@ -7,7 +7,7 @@ let currentSession = null;
 // /api/gh returns only the SAToken to the browser — the PAT stays server-side always.
 async function loadWmConfig() {
   try {
-    const r = await fetch('https://ada-one-rho.vercel.app/api/gh', {
+    const r = await fetch('https://notebooks-xi-science.vercel.app/api/gh', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ action: 'config' })
