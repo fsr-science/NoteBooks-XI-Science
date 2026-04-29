@@ -1,0 +1,4 @@
+full_name=NoteBooks-XI (Science)
+short_name=Science Note
+repo=fsr-science/NoteBooks-XI-Science
+installed_at=2026-04-29T15:42:16.189Z
